@@ -1,0 +1,213 @@
+{
+  "timestamp": 1788366509208,
+  "facts": [
+    {
+      "factId": "RS-REVENUE-FY2023",
+      "company": "RS",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 14805900000,
+      "unit": "USD",
+      "source": "RELIANCE, INC. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000861884",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "RS-NETINCOME-FY2023",
+      "company": "RS",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 1335900000,
+      "unit": "USD",
+      "source": "RELIANCE, INC. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000861884",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "RS-NETINCOME-FY2024",
+      "company": "RS",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 875200000,
+      "unit": "USD",
+      "source": "RELIANCE, INC. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000861884",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "RS-NETINCOME-FY2025",
+      "company": "RS",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 739400000,
+      "unit": "USD",
+      "source": "RELIANCE, INC. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000861884",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "RS-OPERATINGCASHFLOW-FY2023",
+      "company": "RS",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 1671300000,
+      "unit": "USD",
+      "source": "RELIANCE, INC. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000861884",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "RS-OPERATINGCASHFLOW-FY2024",
+      "company": "RS",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 1429800000,
+      "unit": "USD",
+      "source": "RELIANCE, INC. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000861884",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "RS-OPERATINGCASHFLOW-FY2025",
+      "company": "RS",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 831400000,
+      "unit": "USD",
+      "source": "RELIANCE, INC. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000861884",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "RS-RECEIVABLES-FY2023",
+      "company": "RS",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 1472400000,
+      "unit": "USD",
+      "source": "RELIANCE, INC. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000861884",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "RS-RECEIVABLES-FY2024",
+      "company": "RS",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 1342000000,
+      "unit": "USD",
+      "source": "RELIANCE, INC. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000861884",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "RS-RECEIVABLES-FY2025",
+      "company": "RS",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 1539900000,
+      "unit": "USD",
+      "source": "RELIANCE, INC. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000861884",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "RS-CAPEX-FY2023",
+      "company": "RS",
+      "metric": "capex",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 468800000,
+      "unit": "USD",
+      "source": "RELIANCE, INC. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000861884",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "RS-CAPEX-FY2024",
+      "company": "RS",
+      "metric": "capex",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 430600000,
+      "unit": "USD",
+      "source": "RELIANCE, INC. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000861884",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "RS-CAPEX-FY2025",
+      "company": "RS",
+      "metric": "capex",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 328900000,
+      "unit": "USD",
+      "source": "RELIANCE, INC. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000861884",
+      "type": "FACT",
+      "availability": "reported"
+    }
+  ]
+}

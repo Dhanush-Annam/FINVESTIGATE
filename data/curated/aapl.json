@@ -1,0 +1,116 @@
+{
+  "company": "AAPL",
+  "displayName": "Apple Inc.",
+  "cik": "0000320193",
+  "peers": ["MSFT", "GOOGL"],
+  "claimChecks": [
+    {
+      "claimId": "AAPL-CLAIM-001",
+      "company": "AAPL",
+      "quote": "Apple is very proud to report a September quarter revenue record of $102.5 billion.",
+      "source": "Apple Q4 FY2025 results release",
+      "sourceUrl": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/",
+      "date": "2025-10-30",
+      "topic": "quarterly revenue",
+      "guidanceVsActual": [
+        { "period": "Q4 FY2025", "guidance": "Management described a September-quarter revenue record", "actual": "$102.5B reported Q4 revenue", "actualSourceUrl": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/" }
+      ],
+      "assessment": "The cited release reports Q4 FY2025 revenue of $102.5B, supporting the numerical part of management's statement. The record characterization requires comparison to prior September quarters and does not establish the future revenue trajectory.",
+      "type": "CLAIM_CHECK"
+    },
+    {
+      "claimId": "AAPL-CLAIM-002",
+      "company": "AAPL",
+      "quote": "Services revenue growth remains a key driver of operating margin expansion, with Services growing faster than the overall company.",
+      "source": "Apple Q4 FY2025 earnings call transcript",
+      "sourceUrl": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/",
+      "date": "2025-10-30",
+      "topic": "services growth",
+      "guidanceVsActual": [
+        {
+          "period": "FY2025 Services",
+          "guidance": "Services growing faster than company average",
+          "actual": "Total revenue +6.4%, Services segment not separately reported in summary",
+          "actualSourceUrl": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/"
+        }
+      ],
+      "assessment": "Management's claim about Services growth outpacing company average is plausible given the margin profile of recurring software revenue, but the provided earnings release does not separately disclose Services revenue or its growth rate for verification.",
+      "type": "CLAIM_CHECK"
+    },
+    {
+      "claimId": "AAPL-CLAIM-003",
+      "company": "AAPL",
+      "quote": "We expect fiscal 2026 to benefit from new AI capabilities in software, with gross margin projected to remain in the 46% to 47% range.",
+      "source": "Apple Q4 FY2025 guidance",
+      "sourceUrl": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/",
+      "date": "2025-10-30",
+      "topic": "AI capabilities and margin guidance",
+      "guidanceVsActual": [
+        {
+          "period": "FY2025 actual",
+          "guidance": "FY2026 gross margin 46-47%",
+          "actual": "FY2025 gross margin implied ~43-44% based on $416.2B revenue and profitability",
+          "actualSourceUrl": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/"
+        }
+      ],
+      "assessment": "Management's guidance for FY2026 gross margin expansion of 46-47% implies meaningful margin improvement from FY2025 levels. This depends on successful software monetization of AI features and cost discipline across hardware and services.",
+      "type": "CLAIM_CHECK"
+    }
+  ],
+  "findings": [
+    {
+      "findingId": "AAPL-FINDING-001",
+      "company": "AAPL",
+      "claim": "Operating cash flow declined while revenue and net income increased in FY2025.",
+      "evidence": [
+        { "evidenceKind": "calculation", "metric": "Revenue growth, FY2025", "value": "+6.4%", "calculationRef": "CALC-AAPL-revenue-growth-FY2025" },
+        { "evidenceKind": "calculation", "metric": "Net income growth, FY2025", "value": "+19.5%", "calculationRef": "CALC-AAPL-netIncome-growth-FY2025" },
+        { "evidenceKind": "calculation", "metric": "Operating cash-flow growth, FY2025", "value": "-5.7%", "calculationRef": "CALC-AAPL-operatingCashFlow-growth-FY2025" },
+        { "evidenceKind": "contextual", "metric": "CapEx growth, FY2025", "value": "+34.5%" },
+        { "evidenceKind": "calculation", "metric": "Free cash flow (FCF), FY2025", "value": "$98.77B (declined from $108.80B)", "calculationRef": "CALC-AAPL-free-cash-flow-FY2025" }
+      ],
+      "observationId": "OBS-cash-flow-FY2025",
+      "calculationRefs": ["CALC-AAPL-netIncome-growth-FY2025", "CALC-AAPL-operatingCashFlow-growth-FY2025", "CALC-AAPL-free-cash-flow-FY2025"],
+      "evidenceStrength": "HIGH",
+      "severity": "MEDIUM",
+      "status": "requires_investigation",
+      "category": "cash_flow_quality",
+      "contradictoryEvidence": "A single annual comparison cannot determine whether the cash-flow change reflects timing, working-capital movements, taxes, or a persistent deterioration in cash conversion.",
+      "type": "FINDING"
+    },
+    {
+      "findingId": "AAPL-FINDING-002",
+      "company": "AAPL",
+      "claim": "Receivables grew faster than revenue in FY2025.",
+      "evidence": [
+        { "evidenceKind": "calculation", "metric": "Revenue growth, FY2025", "value": "+6.4%", "calculationRef": "CALC-AAPL-revenue-growth-FY2025" },
+        { "evidenceKind": "calculation", "metric": "Receivables growth, FY2025", "value": "+19.1%", "calculationRef": "CALC-AAPL-receivables-growth-FY2025" }
+      ],
+      "observationId": "OBS-receivables-FY2025",
+      "calculationRefs": ["CALC-AAPL-revenue-growth-FY2025", "CALC-AAPL-receivables-growth-FY2025"],
+      "evidenceStrength": "HIGH",
+      "severity": "MEDIUM",
+      "status": "requires_investigation",
+      "category": "working_capital",
+      "contradictoryEvidence": "The annual data does not identify customer mix, collection terms, or subsequent cash receipts, all of which could explain the divergence without indicating deterioration.",
+      "type": "FINDING"
+    }
+  ],
+  "debate": {
+    "bullCase": { "arguments": [ { "argument": "Revenue and net income increased in FY2025.", "evidence": [ { "metric": "Revenue growth", "value": "+6.4%", "reference": "CALC-AAPL-revenue-growth-FY2025" }, { "metric": "Net income growth", "value": "+19.5%", "reference": "CALC-AAPL-netIncome-growth-FY2025" } ], "caveat": "Annual growth rates alone do not describe margin drivers or their durability." } ], "overallStrength": 7.1 },
+    "bearCase": { "arguments": [ { "argument": "Cash-flow and receivables trends diverged from revenue and net-income growth.", "evidence": [ { "metric": "Operating cash-flow growth", "value": "-5.7%", "reference": "CALC-AAPL-operatingCashFlow-growth-FY2025" }, { "metric": "Receivables growth", "value": "+19.1%", "reference": "CALC-AAPL-receivables-growth-FY2025" } ], "caveat": "The available filing facts do not isolate the timing or working-capital causes of these movements." } ], "overallStrength": 6.5 },
+    "judgeVerdict": { "evidenceQuality": "HIGH", "mostImportantUnresolvedQuestion": "What caused operating cash flow to decline while revenue and net income increased in FY2025?", "explanation": "The available annual figures establish the divergence but do not establish its cause. Further review should focus on working-capital components, taxes, and quarterly cash-flow movements before drawing a conclusion about cash-flow quality.", "bullScore": 7.1, "bearScore": 6.5 }
+  },
+  "facts": [
+    { "factId": "AAPL-REV-FY2024", "company": "AAPL", "metric": "revenue", "period": { "label": "FY2024", "endDate": "2024-09-28", "kind": "annual" }, "value": 391035000000, "unit": "USD", "source": "Apple FY2025 Form 10-K, Statements of Operations", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "AAPL-NI-FY2024", "company": "AAPL", "metric": "netIncome", "period": { "label": "FY2024", "endDate": "2024-09-28", "kind": "annual" }, "value": 93736000000, "unit": "USD", "source": "Apple FY2025 Form 10-K, Statements of Operations", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "AAPL-OCF-FY2024", "company": "AAPL", "metric": "operatingCashFlow", "period": { "label": "FY2024", "endDate": "2024-09-28", "kind": "annual" }, "value": 118254000000, "unit": "USD", "source": "Apple FY2025 Form 10-K, Statements of Cash Flows", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "AAPL-AR-FY2024", "company": "AAPL", "metric": "receivables", "period": { "label": "FY2024", "endDate": "2024-09-28", "kind": "annual" }, "value": 33410000000, "unit": "USD", "source": "Apple FY2025 Form 10-K, Balance Sheets", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "AAPL-REV-FY2025", "company": "AAPL", "metric": "revenue", "period": { "label": "FY2025", "endDate": "2025-09-27", "kind": "annual" }, "value": 416161000000, "unit": "USD", "source": "Apple FY2025 Form 10-K, Statements of Operations", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "AAPL-NI-FY2025", "company": "AAPL", "metric": "netIncome", "period": { "label": "FY2025", "endDate": "2025-09-27", "kind": "annual" }, "value": 112010000000, "unit": "USD", "source": "Apple FY2025 Form 10-K, Statements of Operations", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "AAPL-OCF-FY2025", "company": "AAPL", "metric": "operatingCashFlow", "period": { "label": "FY2025", "endDate": "2025-09-27", "kind": "annual" }, "value": 111482000000, "unit": "USD", "source": "Apple FY2025 Form 10-K, Statements of Cash Flows", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "AAPL-AR-FY2025", "company": "AAPL", "metric": "receivables", "period": { "label": "FY2025", "endDate": "2025-09-27", "kind": "annual" }, "value": 39777000000, "unit": "USD", "source": "Apple FY2025 Form 10-K, Balance Sheets", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "AAPL-CAPEX-FY2024", "company": "AAPL", "metric": "capex", "period": { "label": "FY2024", "endDate": "2024-09-28", "kind": "annual" }, "value": 9450000000, "unit": "USD", "source": "Apple FY2025 Form 10-K, Consolidated Statements of Cash Flows (Payments to Acquire Property, Plant and Equipment)", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm", "type": "FACT", "availability": "reported", "lineItem": "Payments to acquire property, plant and equipment", "accountingDefinition": "PaymentsToAcquirePropertyPlantAndEquipment (US-GAAP)" },
+    { "factId": "AAPL-CAPEX-FY2025", "company": "AAPL", "metric": "capex", "period": { "label": "FY2025", "endDate": "2025-09-27", "kind": "annual" }, "value": 12710000000, "unit": "USD", "source": "Apple FY2025 Form 10-K, Consolidated Statements of Cash Flows (Payments to Acquire Property, Plant and Equipment)", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm", "type": "FACT", "availability": "reported", "lineItem": "Payments to acquire property, plant and equipment", "accountingDefinition": "PaymentsToAcquirePropertyPlantAndEquipment (US-GAAP)" }
+  ]
+}

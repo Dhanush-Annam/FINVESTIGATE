@@ -1,0 +1,245 @@
+{
+  "timestamp": 1788354741595,
+  "facts": [
+    {
+      "factId": "TSLA-REVENUE-FY2023",
+      "company": "TSLA",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 96773000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-REVENUE-FY2024",
+      "company": "TSLA",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 97690000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-REVENUE-FY2025",
+      "company": "TSLA",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 94827000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-NETINCOME-FY2023",
+      "company": "TSLA",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 14997000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-NETINCOME-FY2024",
+      "company": "TSLA",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 7091000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-NETINCOME-FY2025",
+      "company": "TSLA",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 3794000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-OPERATINGCASHFLOW-FY2023",
+      "company": "TSLA",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 13256000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-OPERATINGCASHFLOW-FY2024",
+      "company": "TSLA",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 14923000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-OPERATINGCASHFLOW-FY2025",
+      "company": "TSLA",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 14747000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-RECEIVABLES-FY2023",
+      "company": "TSLA",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 3508000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-RECEIVABLES-FY2024",
+      "company": "TSLA",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 4418000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-RECEIVABLES-FY2025",
+      "company": "TSLA",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 4576000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-CAPEX-FY2023",
+      "company": "TSLA",
+      "metric": "capex",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 8899000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-CAPEX-FY2024",
+      "company": "TSLA",
+      "metric": "capex",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 11342000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "TSLA-CAPEX-FY2025",
+      "company": "TSLA",
+      "metric": "capex",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 8527000000,
+      "unit": "USD",
+      "source": "Tesla, Inc. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001318605",
+      "type": "FACT",
+      "availability": "reported"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "timestamp": 1788355667876,
+  "facts": [
+    {
+      "factId": "AMZN-NETINCOME-FY2023",
+      "company": "AMZN",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 30425000000,
+      "unit": "USD",
+      "source": "AMAZON COM INC FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001018724",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "AMZN-NETINCOME-FY2024",
+      "company": "AMZN",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 59248000000,
+      "unit": "USD",
+      "source": "AMAZON COM INC FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001018724",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "AMZN-NETINCOME-FY2025",
+      "company": "AMZN",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 77670000000,
+      "unit": "USD",
+      "source": "AMAZON COM INC FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001018724",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "AMZN-OPERATINGCASHFLOW-FY2023",
+      "company": "AMZN",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 84946000000,
+      "unit": "USD",
+      "source": "AMAZON COM INC FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001018724",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "AMZN-OPERATINGCASHFLOW-FY2024",
+      "company": "AMZN",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 115877000000,
+      "unit": "USD",
+      "source": "AMAZON COM INC FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001018724",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "AMZN-OPERATINGCASHFLOW-FY2025",
+      "company": "AMZN",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 139514000000,
+      "unit": "USD",
+      "source": "AMAZON COM INC FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001018724",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "AMZN-RECEIVABLES-FY2023",
+      "company": "AMZN",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 52253000000,
+      "unit": "USD",
+      "source": "AMAZON COM INC FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001018724",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "AMZN-RECEIVABLES-FY2024",
+      "company": "AMZN",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 55451000000,
+      "unit": "USD",
+      "source": "AMAZON COM INC FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001018724",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "AMZN-RECEIVABLES-FY2025",
+      "company": "AMZN",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 67729000000,
+      "unit": "USD",
+      "source": "AMAZON COM INC FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001018724",
+      "type": "FACT",
+      "availability": "reported"
+    }
+  ]
+}

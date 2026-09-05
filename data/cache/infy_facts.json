@@ -1,0 +1,197 @@
+{
+  "timestamp": 1788429153975,
+  "facts": [
+    {
+      "factId": "INFY-REVENUE-FY2023",
+      "company": "INFY",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-03-31",
+        "kind": "annual"
+      },
+      "value": 18212000000,
+      "unit": "USD",
+      "source": "Infosys Ltd FY2023 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001067491",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INFY-REVENUE-FY2024",
+      "company": "INFY",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-03-31",
+        "kind": "annual"
+      },
+      "value": 18562000000,
+      "unit": "USD",
+      "source": "Infosys Ltd FY2024 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001067491",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INFY-REVENUE-FY2025",
+      "company": "INFY",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-03-31",
+        "kind": "annual"
+      },
+      "value": 19277000000,
+      "unit": "USD",
+      "source": "Infosys Ltd FY2025 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001067491",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INFY-NETINCOME-FY2023",
+      "company": "INFY",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-03-31",
+        "kind": "annual"
+      },
+      "value": 2983000000,
+      "unit": "USD",
+      "source": "Infosys Ltd FY2023 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001067491",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INFY-NETINCOME-FY2024",
+      "company": "INFY",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-03-31",
+        "kind": "annual"
+      },
+      "value": 3169000000,
+      "unit": "USD",
+      "source": "Infosys Ltd FY2024 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001067491",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INFY-NETINCOME-FY2025",
+      "company": "INFY",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-03-31",
+        "kind": "annual"
+      },
+      "value": 3162000000,
+      "unit": "USD",
+      "source": "Infosys Ltd FY2025 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001067491",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INFY-OPERATINGCASHFLOW-FY2023",
+      "company": "INFY",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-03-31",
+        "kind": "annual"
+      },
+      "value": 2853000000,
+      "unit": "USD",
+      "source": "Infosys Ltd FY2023 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001067491",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INFY-OPERATINGCASHFLOW-FY2024",
+      "company": "INFY",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-03-31",
+        "kind": "annual"
+      },
+      "value": 3148000000,
+      "unit": "USD",
+      "source": "Infosys Ltd FY2024 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001067491",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INFY-OPERATINGCASHFLOW-FY2025",
+      "company": "INFY",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-03-31",
+        "kind": "annual"
+      },
+      "value": 4351000000,
+      "unit": "USD",
+      "source": "Infosys Ltd FY2025 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001067491",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INFY-RECEIVABLES-FY2023",
+      "company": "INFY",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-03-31",
+        "kind": "annual"
+      },
+      "value": 3094000000,
+      "unit": "USD",
+      "source": "Infosys Ltd FY2023 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001067491",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INFY-RECEIVABLES-FY2024",
+      "company": "INFY",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-03-31",
+        "kind": "annual"
+      },
+      "value": 3620000000,
+      "unit": "USD",
+      "source": "Infosys Ltd FY2024 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001067491",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INFY-RECEIVABLES-FY2025",
+      "company": "INFY",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-03-31",
+        "kind": "annual"
+      },
+      "value": 3645000000,
+      "unit": "USD",
+      "source": "Infosys Ltd FY2025 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001067491",
+      "type": "FACT",
+      "availability": "reported"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "timestamp": 1788541783378,
+  "facts": [
+    {
+      "factId": "META-NETINCOME-FY2023",
+      "company": "META",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 39098000000,
+      "unit": "USD",
+      "source": "Meta Platforms, Inc. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001326801",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "META-NETINCOME-FY2024",
+      "company": "META",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 62360000000,
+      "unit": "USD",
+      "source": "Meta Platforms, Inc. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001326801",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "META-NETINCOME-FY2025",
+      "company": "META",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 60458000000,
+      "unit": "USD",
+      "source": "Meta Platforms, Inc. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001326801",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "META-OPERATINGCASHFLOW-FY2023",
+      "company": "META",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 71113000000,
+      "unit": "USD",
+      "source": "Meta Platforms, Inc. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001326801",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "META-OPERATINGCASHFLOW-FY2024",
+      "company": "META",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 91328000000,
+      "unit": "USD",
+      "source": "Meta Platforms, Inc. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001326801",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "META-OPERATINGCASHFLOW-FY2025",
+      "company": "META",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 115800000000,
+      "unit": "USD",
+      "source": "Meta Platforms, Inc. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001326801",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "META-RECEIVABLES-FY2023",
+      "company": "META",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 16169000000,
+      "unit": "USD",
+      "source": "Meta Platforms, Inc. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001326801",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "META-RECEIVABLES-FY2024",
+      "company": "META",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 16994000000,
+      "unit": "USD",
+      "source": "Meta Platforms, Inc. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001326801",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "META-RECEIVABLES-FY2025",
+      "company": "META",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 19769000000,
+      "unit": "USD",
+      "source": "Meta Platforms, Inc. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001326801",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "META-CAPEX-FY2023",
+      "company": "META",
+      "metric": "capex",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 27045000000,
+      "unit": "USD",
+      "source": "Meta Platforms, Inc. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001326801",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "META-CAPEX-FY2024",
+      "company": "META",
+      "metric": "capex",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 37256000000,
+      "unit": "USD",
+      "source": "Meta Platforms, Inc. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001326801",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "META-CAPEX-FY2025",
+      "company": "META",
+      "metric": "capex",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 69691000000,
+      "unit": "USD",
+      "source": "Meta Platforms, Inc. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001326801",
+      "type": "FACT",
+      "availability": "reported"
+    }
+  ]
+}

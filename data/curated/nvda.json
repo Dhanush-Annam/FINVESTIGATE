@@ -1,0 +1,172 @@
+{
+  "company": "NVDA",
+  "displayName": "NVIDIA Corporation",
+  "cik": "0001045810",
+  "peers": ["AMD", "INTC"],
+  "claimChecks": [
+    {
+      "claimId": "NVDA-CLAIM-001",
+      "company": "NVDA",
+      "quote": "Revenue is expected to be $54.0 billion, plus or minus 2%.",
+      "source": "NVIDIA Q2 FY2026 earnings release",
+      "sourceUrl": "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2026/default.aspx",
+      "date": "2025-08-27",
+      "topic": "revenue guidance",
+      "evidenceStatus": "VERIFIED",
+      "derivedVariance": "+3.5% above guidance ceiling",
+      "forensicInterpretation": "Favorable forecast variance. Not evidence of accounting manipulation.",
+      "guidanceVsActual": [
+        {
+          "period": "Q3 FY2026",
+          "guidance": "$54.0B ± 2% ($52.92B–$55.08B)",
+          "actual": "$57.006B reported revenue",
+          "actualSourceUrl": "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2026/"
+        }
+      ],
+      "assessment": "Reported Q3 FY2026 revenue exceeded the upper end of management's guidance by approximately 3.5%. This represents a favorable forecast variance; a single outcome does not establish persistent forecasting accuracy.",
+      "type": "CLAIM_CHECK"
+    },
+    {
+      "claimId": "NVDA-CLAIM-002",
+      "company": "NVDA",
+      "quote": "Data center demand remains robust with full utilization of H100 and H200 GPU inventory across hyperscale customers.",
+      "source": "NVIDIA Q3 FY2026 earnings call transcript",
+      "sourceUrl": "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2026/",
+      "date": "2025-11-19",
+      "topic": "data center demand",
+      "evidenceStatus": "PARTIALLY_CORROBORATED",
+      "derivedVariance": "Quantitative demand verified; component utilization unmeasured",
+      "forensicInterpretation": "Filing supports strong overall Data Center demand growth (+68% YoY), while product-level GPU utilization is qualitative commentary.",
+      "components": [
+        {
+          "label": "Evidence A — Data Center Demand",
+          "status": "CORROBORATED",
+          "evidence": "FY2026 Data Center revenue increased +68% YoY to $193.7B; Q4 Data Center revenue reached $62.3B (+75% YoY)."
+        },
+        {
+          "label": "Evidence B — Full H100/H200 Inventory Utilization",
+          "status": "NOT_DIRECTLY_VERIFIED",
+          "evidence": "The available filing evidence does not provide a quantitative utilization metric for H100/H200 inventory."
+        }
+      ],
+      "guidanceVsActual": [
+        {
+          "period": "FY2026 / Q4 FY2026",
+          "guidance": "Full utilization of H100/H200 inventory",
+          "actual": "FY2026 Data Center revenue +68% YoY; inventory utilization metric not separately reported in 10-K",
+          "actualSourceUrl": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026/"
+        }
+      ],
+      "assessment": "The filing supports strong overall Data Center revenue growth (+68% YoY), but the cited inventory-utilization claim cannot be directly verified from the available 10-K data.",
+      "type": "CLAIM_CHECK"
+    },
+    {
+      "claimId": "NVDA-CLAIM-003",
+      "company": "NVDA",
+      "quote": "We expect gross margins to remain in the 70% to 72% range, driven by mix and manufacturing efficiency improvements.",
+      "source": "NVIDIA Q3 FY2026 earnings guidance",
+      "sourceUrl": "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2026/",
+      "date": "2025-11-19",
+      "topic": "gross margin guidance",
+      "evidenceStatus": "VERIFIED",
+      "derivedVariance": "+3.0 percentage points above guidance ceiling",
+      "forensicInterpretation": "Favorable outcome relative to management's guidance. Does not, by itself, indicate accounting-quality deterioration.",
+      "guidanceVsActual": [
+        {
+          "period": "Q4 FY2026",
+          "guidance": "Gross margins 70-72%",
+          "actual": "75.0% reported Q4 GAAP gross margin (71.1% FY2026 full-year)",
+          "actualSourceUrl": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026/"
+        }
+      ],
+      "assessment": "Q4 FY2026 GAAP gross margin was 75.0%, exceeding the 70–72% guidance range by 3.0 percentage points. This represents a favorable outcome relative to management's guidance and does not, by itself, indicate accounting-quality deterioration.",
+      "type": "CLAIM_CHECK"
+    }
+  ],
+  "findings": [
+    {
+      "findingId": "NVDA-FINDING-001",
+      "company": "NVDA",
+      "claim": "Receivables increased materially, but remained broadly aligned with revenue growth.",
+      "evidence": [
+        { "evidenceKind": "calculation", "metric": "Revenue growth, FY2026", "value": "+65.5%", "calculationRef": "CALC-NVDA-revenue-growth-FY2026" },
+        { "evidenceKind": "calculation", "metric": "Receivables growth, FY2026", "value": "+66.8%", "calculationRef": "CALC-NVDA-receivables-growth-FY2026" },
+        { "evidenceKind": "contextual", "metric": "Growth divergence", "value": "+1.3 ppt" },
+        { "evidenceKind": "contextual", "metric": "Absolute AR increase", "value": "+$15.4B" }
+      ],
+      "observationId": "OBS-receivables-alignment-FY2026",
+      "calculationRefs": ["CALC-NVDA-revenue-growth-FY2026", "CALC-NVDA-receivables-growth-FY2026"],
+      "evidenceStrength": "HIGH",
+      "severity": "LOW",
+      "status": "positive_signal",
+      "category": "working_capital",
+      "contradictoryEvidence": "Receivables increased by $15.4B YoY, while growth remained within 1.3 percentage points of revenue growth. This does not independently indicate revenue-quality deterioration.",
+      "financialRationale": "The absolute increase warrants monitoring, but the current annual evidence does not establish abnormal collection behavior.",
+      "whatToInvestigateNext": "Review quarterly DSO, receivables aging, allowance coverage, and customer concentration.",
+      "type": "FINDING"
+    }
+  ],
+  "debate": {
+    "bullCase": {
+      "arguments": [
+        {
+          "argument": "Annual revenue and operating cash flow both expanded substantially in FY2026.",
+          "evidence": [
+            { "metric": "Revenue growth", "value": "+65.5%", "reference": "CALC-NVDA-revenue-growth-FY2026" },
+            { "metric": "Operating cash-flow growth", "value": "+60.3%", "reference": "CALC-NVDA-operatingCashFlow-growth-FY2026" }
+          ],
+          "caveat": "One annual comparison does not establish the durability of growth or cash generation."
+        },
+        {
+          "argument": "The cited Q3 FY2026 revenue result exceeded the upper end of the preceding Q2 outlook range.",
+          "evidence": [
+            { "metric": "Q3 revenue outlook", "value": "$54.0B ± 2%", "reference": "NVDA-CLAIM-001" },
+            { "metric": "Q3 reported revenue", "value": "$57.006B", "reference": "NVDA-CLAIM-001" }
+          ],
+          "caveat": "One guidance outcome does not establish a continuing forecasting advantage."
+        }
+      ],
+      "overallStrength": 9.4
+    },
+    "bearCase": {
+      "arguments": [
+        {
+          "argument": "Receivables rose by more than $15B year over year, which warrants monitoring even though growth was aligned with revenue.",
+          "evidence": [
+            { "metric": "Accounts receivable, FY2025", "value": "$23.1B", "reference": "NVDA-AR-FY2025" },
+            { "metric": "Accounts receivable, FY2026", "value": "$38.5B", "reference": "NVDA-AR-FY2026" }
+          ],
+          "caveat": "The available annual data does not show receivables materially outpacing revenue."
+        },
+        {
+          "argument": "Operating cash-flow growth trailed revenue growth modestly during a period of rapid expansion.",
+          "evidence": [
+            { "metric": "Revenue growth", "value": "+65.5%", "reference": "CALC-NVDA-revenue-growth-FY2026" },
+            { "metric": "Operating cash-flow growth", "value": "+60.3%", "reference": "CALC-NVDA-operatingCashFlow-growth-FY2026" }
+          ],
+          "caveat": "The roughly 5 percentage-point difference alone does not meet the anomaly threshold or establish deteriorating cash-flow quality."
+        }
+      ],
+      "overallStrength": 4.0
+    },
+    "judgeVerdict": {
+      "evidenceQuality": "HIGH",
+      "mostImportantUnresolvedQuestion": "Can revenue growth and cash collection remain aligned as NVIDIA scales from its FY2026 base?",
+      "explanation": "The available annual filing data directly supports strong revenue and operating cash-flow growth, and the cited guidance comparison was favorable. The caution case is weaker on the current evidence: receivables growth was broadly in line with revenue, while its absolute increase still merits follow-up with quarterly collection and customer-concentration data.",
+      "bullScore": 9.4,
+      "bearScore": 4.0
+    }
+  },
+  "facts": [
+    { "factId": "NVDA-REV-FY2025", "company": "NVDA", "metric": "revenue", "period": { "label": "FY2025", "endDate": "2025-01-26", "kind": "annual" }, "value": 130497000000, "unit": "USD", "source": "NVIDIA FY2026 Form 10-K, Consolidated Statements of Income", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "NVDA-NI-FY2025", "company": "NVDA", "metric": "netIncome", "period": { "label": "FY2025", "endDate": "2025-01-26", "kind": "annual" }, "value": 72880000000, "unit": "USD", "source": "NVIDIA FY2026 Form 10-K, Consolidated Statements of Income", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "NVDA-OCF-FY2025", "company": "NVDA", "metric": "operatingCashFlow", "period": { "label": "FY2025", "endDate": "2025-01-26", "kind": "annual" }, "value": 64089000000, "unit": "USD", "source": "NVIDIA FY2026 Form 10-K, Consolidated Statements of Cash Flows", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "NVDA-AR-FY2025", "company": "NVDA", "metric": "receivables", "period": { "label": "FY2025", "endDate": "2025-01-26", "kind": "annual" }, "value": 23065000000, "unit": "USD", "source": "NVIDIA FY2026 Form 10-K, Consolidated Balance Sheets", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "NVDA-CAPEX-FY2025", "company": "NVDA", "metric": "capex", "period": { "label": "FY2025", "endDate": "2025-01-26", "kind": "annual" }, "value": 1400000000, "unit": "USD", "source": "NVIDIA FY2026 Form 10-K, Consolidated Statements of Cash Flows (Payments to Acquire Property, Plant and Equipment)", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm", "type": "FACT", "availability": "reported", "lineItem": "Payments to acquire property, plant and equipment", "accountingDefinition": "PaymentsToAcquirePropertyPlantAndEquipment (US-GAAP)" },
+    { "factId": "NVDA-REV-FY2026", "company": "NVDA", "metric": "revenue", "period": { "label": "FY2026", "endDate": "2026-01-25", "kind": "annual" }, "value": 215938000000, "unit": "USD", "source": "NVIDIA FY2026 Form 10-K, Consolidated Statements of Income", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "NVDA-NI-FY2026", "company": "NVDA", "metric": "netIncome", "period": { "label": "FY2026", "endDate": "2026-01-25", "kind": "annual" }, "value": 120067000000, "unit": "USD", "source": "NVIDIA FY2026 Form 10-K, Consolidated Statements of Income", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "NVDA-OCF-FY2026", "company": "NVDA", "metric": "operatingCashFlow", "period": { "label": "FY2026", "endDate": "2026-01-25", "kind": "annual" }, "value": 102718000000, "unit": "USD", "source": "NVIDIA FY2026 Form 10-K, Consolidated Statements of Cash Flows", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "NVDA-AR-FY2026", "company": "NVDA", "metric": "receivables", "period": { "label": "FY2026", "endDate": "2026-01-25", "kind": "annual" }, "value": 38466000000, "unit": "USD", "source": "NVIDIA FY2026 Form 10-K, Consolidated Balance Sheets", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm", "type": "FACT", "availability": "reported" },
+    { "factId": "NVDA-CAPEX-FY2026", "company": "NVDA", "metric": "capex", "period": { "label": "FY2026", "endDate": "2026-01-25", "kind": "annual" }, "value": 1900000000, "unit": "USD", "source": "NVIDIA FY2026 Form 10-K, Consolidated Statements of Cash Flows (Payments to Acquire Property, Plant and Equipment)", "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm", "type": "FACT", "availability": "reported", "lineItem": "Payments to acquire property, plant and equipment", "accountingDefinition": "PaymentsToAcquirePropertyPlantAndEquipment (US-GAAP)" }
+  ]
+}

@@ -1,0 +1,2962 @@
+[
+  {
+    "id": "6e0c674a-aee6-45c5-b4ca-7c6a8ba7bbe8",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:04:53.653Z"
+  },
+  {
+    "id": "e67a884a-7e2b-46e0-8223-d69cdfa6c671",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:04:53.657Z"
+  },
+  {
+    "id": "7dcb260c-f104-4d20-8b34-3519a6f5ff59",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:04:53.660Z"
+  },
+  {
+    "id": "1f8d709f-f0b9-4ff5-ac93-2821d2dc2226",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-FACT-REV-2023",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"AAPL-FACT-REV-2023\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:04:53.669Z"
+  },
+  {
+    "id": "a1d5965c-2731-4d18-a4bb-ab0f835c716f",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:06:06.336Z"
+  },
+  {
+    "id": "d8f04a76-d019-4115-9b97-fd22d55f63b3",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:06:06.340Z"
+  },
+  {
+    "id": "dba0486a-aad2-49b6-b405-4517b1f31148",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:06:06.343Z"
+  },
+  {
+    "id": "f28a24f0-08ee-47d9-b29c-9e2dff7e224a",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:06:06.350Z"
+  },
+  {
+    "id": "59d54806-6075-4ab5-82c4-3f90b1493a55",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:06:06.351Z"
+  },
+  {
+    "id": "d9af4bc1-70eb-476b-8e65-d4d9a7d8ebad",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:08:48.861Z"
+  },
+  {
+    "id": "5fb40405-8227-4423-bef6-e2f0e9f54e64",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:08:48.865Z"
+  },
+  {
+    "id": "55e8acfe-67b3-45e0-9178-c407f5460787",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:08:48.867Z"
+  },
+  {
+    "id": "d5bb1c5c-495b-4b8a-b4f9-7485e58ad923",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:08:48.880Z"
+  },
+  {
+    "id": "05e569a6-6568-42ea-920c-d3d976552eb5",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:08:48.881Z"
+  },
+  {
+    "id": "d9d688ab-e7ed-4633-ac51-0df09ad39cb8",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:12:44.070Z"
+  },
+  {
+    "id": "c70360a5-2e45-4ca0-8fc8-dab3feddf9c3",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:12:44.074Z"
+  },
+  {
+    "id": "3cdf3357-592c-4231-b5b5-5c5c1a807e10",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:12:44.076Z"
+  },
+  {
+    "id": "b2329dfa-f0ba-43b6-a3e1-71cd119fcfc2",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:12:44.083Z"
+  },
+  {
+    "id": "9a82c2c8-d3bb-455f-b4b9-04522fa4d204",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:12:44.084Z"
+  },
+  {
+    "id": "fd03adfc-1790-4948-9d25-2f575255450f",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:37:14.676Z"
+  },
+  {
+    "id": "5a0be3a0-5ed8-4144-ad1a-836603274f93",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:37:14.678Z"
+  },
+  {
+    "id": "47d49024-0622-4cd3-98d8-14d4d0bdc113",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:37:14.680Z"
+  },
+  {
+    "id": "739af1c5-97fd-401e-8570-3f772dee429e",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:37:14.690Z"
+  },
+  {
+    "id": "f5a73c06-a3d2-495c-8cf8-b9b9a01c8f36",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:37:14.690Z"
+  },
+  {
+    "id": "abec9de7-334a-4fd9-a704-d7387770390a",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:39:46.929Z"
+  },
+  {
+    "id": "2bcc08d1-f663-42af-8009-4d8d8b242205",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:39:46.932Z"
+  },
+  {
+    "id": "a3e9e3ec-84ab-4174-b97b-9f4c6a3a7250",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:39:46.935Z"
+  },
+  {
+    "id": "1a16a3c3-a53e-4f40-b417-523e73f4da66",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:39:46.943Z"
+  },
+  {
+    "id": "ae5068cc-cc68-4bf5-be8b-f7fa3baa3937",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:39:46.943Z"
+  },
+  {
+    "id": "096291cd-44bf-4252-8a3c-8de61c1c1d96",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:40:06.378Z"
+  },
+  {
+    "id": "63040e0b-0e2b-4727-b4f7-31a38ccfa2c4",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:40:06.381Z"
+  },
+  {
+    "id": "cb44a5a6-dc13-4af6-b3c6-a265fecdd75f",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:40:06.385Z"
+  },
+  {
+    "id": "8ceb056f-7688-42b8-8321-979dff95986a",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:40:06.393Z"
+  },
+  {
+    "id": "9c61913d-ba82-4363-a067-0e61e9de3f00",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:40:06.394Z"
+  },
+  {
+    "id": "bc8e3a3a-19f8-4268-bfea-7a593a8d3659",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved substantial revenue growth in FY2026.",
+    "refId": "NVDA-REV-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:50.206Z"
+  },
+  {
+    "id": "2b730604-cd92-4e66-87de-cf982f332b15",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved substantial revenue growth in FY2026.",
+    "refId": "NVDA-REV-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:50.207Z"
+  },
+  {
+    "id": "82dc930b-fafa-4f8e-b9d0-d1d7c6eae054",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved substantial revenue growth in FY2026.",
+    "refId": "CALC-NVDA-revenue-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:50.207Z"
+  },
+  {
+    "id": "03ede43e-201e-4862-96ea-de388ea2d36f",
+    "companyTicker": "NVDA",
+    "claimText": "Net income expanded dramatically alongside operational scale.",
+    "refId": "NVDA-NI-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:50.207Z"
+  },
+  {
+    "id": "0b05f487-30b9-4b73-8400-8bc843fd2a83",
+    "companyTicker": "NVDA",
+    "claimText": "Net income expanded dramatically alongside operational scale.",
+    "refId": "NVDA-NI-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:50.207Z"
+  },
+  {
+    "id": "307cca29-578d-426c-80b2-872f690162e7",
+    "companyTicker": "NVDA",
+    "claimText": "Net income expanded dramatically alongside operational scale.",
+    "refId": "CALC-NVDA-netIncome-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:50.207Z"
+  },
+  {
+    "id": "fe761914-d15a-4946-a2b4-fa8c65c2f9ec",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow and free cash flow generation remain robust.",
+    "refId": "NVDA-OCF-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:50.208Z"
+  },
+  {
+    "id": "afed810e-da43-4945-944e-fe6caf62913d",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow and free cash flow generation remain robust.",
+    "refId": "NVDA-OCF-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:50.208Z"
+  },
+  {
+    "id": "9d110747-53f9-4120-89a8-58483e4f19ea",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow and free cash flow generation remain robust.",
+    "refId": "NVDA-CAPEX-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:50.208Z"
+  },
+  {
+    "id": "2dcc92e9-a480-4bcc-875d-9fb257e1303d",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow and free cash flow generation remain robust.",
+    "refId": "CALC-NVDA-free-cash-flow-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:50.208Z"
+  },
+  {
+    "id": "b234b24a-08ae-4ad4-a6e7-34e9b6a50753",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow and free cash flow generation remain robust.",
+    "refId": "CALC-NVDA-operatingCashFlow-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:50.208Z"
+  },
+  {
+    "id": "2337b03f-f3b0-4fa3-8dd4-efd973d891ff",
+    "companyTicker": "NVDA",
+    "claimText": "Receivables are expanding rapidly in absolute terms, requiring ongoing monitoring of collection risk despite proportional alignment with revenue.",
+    "refId": "NVDA-AR-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:53.762Z"
+  },
+  {
+    "id": "8892e858-3b65-4599-9398-96df0f629d97",
+    "companyTicker": "NVDA",
+    "claimText": "Receivables are expanding rapidly in absolute terms, requiring ongoing monitoring of collection risk despite proportional alignment with revenue.",
+    "refId": "NVDA-AR-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:53.762Z"
+  },
+  {
+    "id": "109f36db-79b0-446a-933c-4ee69952e23e",
+    "companyTicker": "NVDA",
+    "claimText": "Receivables are expanding rapidly in absolute terms, requiring ongoing monitoring of collection risk despite proportional alignment with revenue.",
+    "refId": "CALC-NVDA-receivables-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:53.763Z"
+  },
+  {
+    "id": "2a5c2866-61c4-4a2a-98db-228738c244a2",
+    "companyTicker": "NVDA",
+    "claimText": "Receivables are expanding rapidly in absolute terms, requiring ongoing monitoring of collection risk despite proportional alignment with revenue.",
+    "refId": "CALC-NVDA-revenue-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:53.763Z"
+  },
+  {
+    "id": "9d42c6b9-3671-4c8e-bd76-7ebb2c5fe7b9",
+    "companyTicker": "NVDA",
+    "claimText": "Receivables are expanding rapidly in absolute terms, requiring ongoing monitoring of collection risk despite proportional alignment with revenue.",
+    "refId": "NVDA-FINDING-001",
+    "result": "pass",
+    "detail": "Finding reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:53.765Z"
+  },
+  {
+    "id": "6650189d-95ff-4236-90ab-a8c4247fdb20",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow growth slightly lagged net income growth, pointing to minor working capital friction.",
+    "refId": "NVDA-NI-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:53.766Z"
+  },
+  {
+    "id": "f8431762-9209-4b4d-af8b-2d3825e57988",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow growth slightly lagged net income growth, pointing to minor working capital friction.",
+    "refId": "NVDA-NI-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:53.766Z"
+  },
+  {
+    "id": "87f10d8d-aaea-4a9a-85ba-53aa763ffbc0",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow growth slightly lagged net income growth, pointing to minor working capital friction.",
+    "refId": "NVDA-OCF-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:53.766Z"
+  },
+  {
+    "id": "f2f456ed-8639-4a9f-99cf-d88317b94847",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow growth slightly lagged net income growth, pointing to minor working capital friction.",
+    "refId": "NVDA-OCF-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:53.766Z"
+  },
+  {
+    "id": "d87672c6-f63d-469a-88f9-8498fe31dd44",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow growth slightly lagged net income growth, pointing to minor working capital friction.",
+    "refId": "CALC-NVDA-netIncome-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:53.767Z"
+  },
+  {
+    "id": "6c1c1735-db76-414f-a026-d4a2d9889b1c",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow growth slightly lagged net income growth, pointing to minor working capital friction.",
+    "refId": "CALC-NVDA-operatingCashFlow-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:53.767Z"
+  },
+  {
+    "id": "534c84e5-19eb-4a62-b009-1a1e14164600",
+    "companyTicker": "NVDA",
+    "claimText": "Capital expenditures are scaling upward, which may increase future cash deployment requirements.",
+    "refId": "NVDA-CAPEX-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:53.767Z"
+  },
+  {
+    "id": "e4cba195-3b1c-4217-863c-39ffb5bfde1c",
+    "companyTicker": "NVDA",
+    "claimText": "Capital expenditures are scaling upward, which may increase future cash deployment requirements.",
+    "refId": "NVDA-CAPEX-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:53.767Z"
+  },
+  {
+    "id": "1641c0e3-e790-423c-99e3-348be5c89223",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "NVDA-FINDING-001",
+    "result": "pass",
+    "detail": "Finding reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.680Z"
+  },
+  {
+    "id": "80055735-b362-4543-bdb2-4448ca3ed757",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "NVDA-AR-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.680Z"
+  },
+  {
+    "id": "6d70cc63-b26c-4d19-8a46-7b806f45ce1b",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "NVDA-AR-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.680Z"
+  },
+  {
+    "id": "4dae2c84-21ac-48bf-9563-d2cc6b01f655",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "NVDA-REV-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.680Z"
+  },
+  {
+    "id": "9f420f37-9850-4c2d-ba15-490cfc334be8",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "NVDA-REV-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.680Z"
+  },
+  {
+    "id": "9181acad-4cde-4bc3-9888-e4e26c4a6e20",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "NVDA-NI-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.681Z"
+  },
+  {
+    "id": "b9111fea-9bcd-46f7-ac04-711579da64de",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "NVDA-NI-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.681Z"
+  },
+  {
+    "id": "ef89e72d-8e16-4a9f-930b-22957a7739a2",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "NVDA-OCF-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.682Z"
+  },
+  {
+    "id": "4c407f51-063b-4b97-9f68-962ced716b57",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "NVDA-OCF-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.683Z"
+  },
+  {
+    "id": "d25fe800-13ef-4378-b72e-44922c2b2882",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "NVDA-CAPEX-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.683Z"
+  },
+  {
+    "id": "57004fac-6a41-4519-8be8-9f0ddf1bb004",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "NVDA-AR-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.683Z"
+  },
+  {
+    "id": "f690aeff-6580-4f16-a915-e74403855ac4",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "NVDA-AR-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.683Z"
+  },
+  {
+    "id": "4497d413-fa67-43d5-a19a-2786a868346e",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "CALC-NVDA-revenue-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.683Z"
+  },
+  {
+    "id": "db866ad4-e61e-450d-a7b9-9033d35ae5be",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "CALC-NVDA-netIncome-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.684Z"
+  },
+  {
+    "id": "90134e9c-18de-45dc-a97f-5d244de1e8fa",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "CALC-NVDA-operatingCashFlow-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.684Z"
+  },
+  {
+    "id": "bdf24d03-d24c-48f7-a219-acfdd09da71b",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "CALC-NVDA-free-cash-flow-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.684Z"
+  },
+  {
+    "id": "151a4512-1729-4b09-843a-2651f0224ca9",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "CALC-NVDA-receivables-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.684Z"
+  },
+  {
+    "id": "302c3b88-59d2-4227-907f-fc83d5585204",
+    "companyTicker": "NVDA",
+    "claimText": "How will customer concentration and credit collection trends evolve given the absolute increase of $15.4B in receivables during FY2026?",
+    "refId": "NVDA-FINDING-001",
+    "result": "pass",
+    "detail": "Finding reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:43:56.687Z"
+  },
+  {
+    "id": "069c56fd-ed27-4660-bb72-7d722effe39d",
+    "companyTicker": "NVDA",
+    "claimText": "Significant acceleration in revenue growth for FY2026.",
+    "refId": "NVDA-REV-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:15.118Z"
+  },
+  {
+    "id": "896b898b-6055-4af3-afc3-1bddc3d1c3ee",
+    "companyTicker": "NVDA",
+    "claimText": "Significant acceleration in revenue growth for FY2026.",
+    "refId": "NVDA-REV-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:15.119Z"
+  },
+  {
+    "id": "128e0781-1ca1-4dfd-873d-d0c5605995fe",
+    "companyTicker": "NVDA",
+    "claimText": "Significant acceleration in revenue growth for FY2026.",
+    "refId": "CALC-NVDA-revenue-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:15.120Z"
+  },
+  {
+    "id": "bacc7d04-b37d-4981-9cb7-b129947c75f1",
+    "companyTicker": "NVDA",
+    "claimText": "Substantial expansion in net income and operating cash flows.",
+    "refId": "NVDA-NI-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:15.121Z"
+  },
+  {
+    "id": "f1bc9da5-b226-4f93-ad57-9f01ac2130a6",
+    "companyTicker": "NVDA",
+    "claimText": "Substantial expansion in net income and operating cash flows.",
+    "refId": "NVDA-NI-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:15.121Z"
+  },
+  {
+    "id": "4acad75b-38bd-4fd1-becc-fb07fa43664e",
+    "companyTicker": "NVDA",
+    "claimText": "Substantial expansion in net income and operating cash flows.",
+    "refId": "NVDA-OCF-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:15.122Z"
+  },
+  {
+    "id": "cb9a27fc-582a-4694-904d-3486c89fc77b",
+    "companyTicker": "NVDA",
+    "claimText": "Substantial expansion in net income and operating cash flows.",
+    "refId": "NVDA-OCF-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:15.122Z"
+  },
+  {
+    "id": "50f7743d-7c60-4dea-962b-76fe4b9b4b23",
+    "companyTicker": "NVDA",
+    "claimText": "Substantial expansion in net income and operating cash flows.",
+    "refId": "CALC-NVDA-netIncome-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:15.122Z"
+  },
+  {
+    "id": "2e8777b6-f7ae-4479-aa3d-9fb3c0236dec",
+    "companyTicker": "NVDA",
+    "claimText": "Substantial expansion in net income and operating cash flows.",
+    "refId": "CALC-NVDA-operatingCashFlow-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:15.122Z"
+  },
+  {
+    "id": "3b6ae3c0-4b26-47c8-b64d-66332c50e853",
+    "companyTicker": "NVDA",
+    "claimText": "Robust generation of free cash flow supported by controlled capital expenditures.",
+    "refId": "NVDA-OCF-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:15.123Z"
+  },
+  {
+    "id": "f5a1e103-2ab7-4934-bf8a-40077ad3d08c",
+    "companyTicker": "NVDA",
+    "claimText": "Robust generation of free cash flow supported by controlled capital expenditures.",
+    "refId": "NVDA-CAPEX-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:15.123Z"
+  },
+  {
+    "id": "c092cc76-5df6-4cbd-b7a7-afd7b5974ddc",
+    "companyTicker": "NVDA",
+    "claimText": "Robust generation of free cash flow supported by controlled capital expenditures.",
+    "refId": "CALC-NVDA-free-cash-flow-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:15.123Z"
+  },
+  {
+    "id": "5e8877d7-139a-4d05-9225-ee283aa89c63",
+    "companyTicker": "NVDA",
+    "claimText": "Receivables are expanding significantly in absolute terms alongside top-line growth.",
+    "refId": "NVDA-AR-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:24.350Z"
+  },
+  {
+    "id": "c69abaef-a7a7-4d90-b52c-e6d30eff722d",
+    "companyTicker": "NVDA",
+    "claimText": "Receivables are expanding significantly in absolute terms alongside top-line growth.",
+    "refId": "NVDA-AR-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:24.350Z"
+  },
+  {
+    "id": "63e445a5-46bc-46ee-ba48-6868f08f5461",
+    "companyTicker": "NVDA",
+    "claimText": "Receivables are expanding significantly in absolute terms alongside top-line growth.",
+    "refId": "CALC-NVDA-receivables-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:24.351Z"
+  },
+  {
+    "id": "f771d89d-229c-469b-aef5-03e6ffc64251",
+    "companyTicker": "NVDA",
+    "claimText": "Receivables are expanding significantly in absolute terms alongside top-line growth.",
+    "refId": "CALC-NVDA-revenue-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:24.351Z"
+  },
+  {
+    "id": "4ce85f24-13df-4a68-a571-8f5bdd562313",
+    "companyTicker": "NVDA",
+    "claimText": "Receivables are expanding significantly in absolute terms alongside top-line growth.",
+    "refId": "NVDA-FINDING-001",
+    "result": "pass",
+    "detail": "Finding reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:24.354Z"
+  },
+  {
+    "id": "7a00e4c9-ea9a-45b7-b43f-738e267f1945",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow growth slightly trails net income growth.",
+    "refId": "NVDA-NI-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:24.355Z"
+  },
+  {
+    "id": "ff124859-9a19-47b6-bd7d-cddbedf8fcb9",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow growth slightly trails net income growth.",
+    "refId": "NVDA-NI-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:24.355Z"
+  },
+  {
+    "id": "6e71e3ce-6170-4924-ad38-7c20147bc294",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow growth slightly trails net income growth.",
+    "refId": "NVDA-OCF-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:24.355Z"
+  },
+  {
+    "id": "aefe020a-ef69-4565-a2f9-0f2bd8480295",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow growth slightly trails net income growth.",
+    "refId": "NVDA-OCF-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:24.356Z"
+  },
+  {
+    "id": "f197af01-97ea-45f8-afb8-433351f81094",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow growth slightly trails net income growth.",
+    "refId": "CALC-NVDA-netIncome-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:24.356Z"
+  },
+  {
+    "id": "f5fd0329-f6ac-4e84-8c63-16b57dc70062",
+    "companyTicker": "NVDA",
+    "claimText": "Operating cash flow growth slightly trails net income growth.",
+    "refId": "CALC-NVDA-operatingCashFlow-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:24.356Z"
+  },
+  {
+    "id": "ff5b0a48-a2a9-4d31-96d2-e7ba3121df6d",
+    "companyTicker": "NVDA",
+    "claimText": "Capital expenditures are scaling up and could require higher outlays in future periods.",
+    "refId": "NVDA-CAPEX-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:24.356Z"
+  },
+  {
+    "id": "cb7f92da-29b0-47bc-82f2-a2569668641c",
+    "companyTicker": "NVDA",
+    "claimText": "Capital expenditures are scaling up and could require higher outlays in future periods.",
+    "refId": "NVDA-CAPEX-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:24.356Z"
+  },
+  {
+    "id": "ee8ce02e-9826-41bc-9ce3-adc3b812a8e5",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "NVDA-FINDING-001",
+    "result": "pass",
+    "detail": "Finding reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.537Z"
+  },
+  {
+    "id": "d888e7cf-d064-4523-b8ac-22e1ccd162bf",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "NVDA-REV-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.537Z"
+  },
+  {
+    "id": "e8d7a0ec-b228-4738-8278-9587a1a25f0e",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "NVDA-REV-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.537Z"
+  },
+  {
+    "id": "2664c265-6292-4da1-8869-be2f866c88cc",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "NVDA-NI-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.537Z"
+  },
+  {
+    "id": "4ec34c5f-4edc-4138-a3ec-75a2f587d74f",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "NVDA-NI-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.540Z"
+  },
+  {
+    "id": "746ab077-3c28-4042-9386-42b140eaa293",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "NVDA-OCF-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.540Z"
+  },
+  {
+    "id": "cb9e6c04-dd69-4ce3-8799-2de194b93c10",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "NVDA-OCF-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.540Z"
+  },
+  {
+    "id": "ed4ad550-9d67-49fc-8100-f96ae2aaf55a",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "NVDA-CAPEX-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.541Z"
+  },
+  {
+    "id": "5009b99d-799f-4078-bb07-9e0d4b0c9049",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "NVDA-CAPEX-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.541Z"
+  },
+  {
+    "id": "b106196f-4eed-4438-923e-f0320c51d181",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "NVDA-AR-FY2025",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.542Z"
+  },
+  {
+    "id": "415e1c21-d607-4b72-84c7-036bf61e6adf",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "NVDA-AR-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.542Z"
+  },
+  {
+    "id": "7ee9c52f-98a8-4f14-80f5-51191a37b0d0",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "CALC-NVDA-revenue-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.543Z"
+  },
+  {
+    "id": "f88db251-7019-4922-8c90-8b2e8fb594d7",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "CALC-NVDA-netIncome-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.543Z"
+  },
+  {
+    "id": "220901ec-5eb5-46ef-9e79-6f8c43f1548d",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "CALC-NVDA-operatingCashFlow-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.543Z"
+  },
+  {
+    "id": "41119fb1-13d7-4b37-9b12-e5b35d0bd858",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "CALC-NVDA-free-cash-flow-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.544Z"
+  },
+  {
+    "id": "c071f25b-512d-4857-8963-e958833e0b5d",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "CALC-NVDA-receivables-growth-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.544Z"
+  },
+  {
+    "id": "d46ed031-bba6-4fe5-b7bd-c4279493572a",
+    "companyTicker": "NVDA",
+    "claimText": "Further quarterly and customer-concentration analysis is needed to assess collection risk given the absolute increase in receivables of $15.4B.",
+    "refId": "NVDA-FINDING-001",
+    "result": "pass",
+    "detail": "Finding reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T17:57:31.547Z"
+  },
+  {
+    "id": "37386571-4bda-4983-8302-22a4d77b5c04",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:16:15.991Z"
+  },
+  {
+    "id": "bded7b7f-a8ed-4d89-a492-abcb31659de4",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:16:15.994Z"
+  },
+  {
+    "id": "a21a4c02-5006-4b61-a357-ca4d67678bf6",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:16:15.997Z"
+  },
+  {
+    "id": "187dd4c8-5c79-4434-ae1d-6b86e2421617",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:16:16.004Z"
+  },
+  {
+    "id": "39cff60c-f204-4c46-979f-c356354bba4b",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:16:16.005Z"
+  },
+  {
+    "id": "83349b91-25ac-4ae5-a0a3-8f2b0e5e6174",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:20:13.421Z"
+  },
+  {
+    "id": "a782db24-d71f-4217-ad04-dfb635f613cc",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:20:13.424Z"
+  },
+  {
+    "id": "17c484c2-f18d-41e1-bf0a-2d6640ef5292",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:20:13.426Z"
+  },
+  {
+    "id": "ad7f4d9a-5b9b-46c4-a807-3ac77b2ee0a1",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:20:13.435Z"
+  },
+  {
+    "id": "6a2aa166-a3a5-476d-92ed-fa405b1a3d4d",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:20:13.436Z"
+  },
+  {
+    "id": "46ade1b0-deb1-498e-91a1-0202a7c93677",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:21:16.629Z"
+  },
+  {
+    "id": "3f464b1e-d7f9-43b1-b132-e1f972e2f092",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:21:16.633Z"
+  },
+  {
+    "id": "6897e1e0-6927-4800-a9df-61540c241fb4",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:21:16.635Z"
+  },
+  {
+    "id": "484bed2b-16cc-4a84-818f-5ccf89072b74",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:21:16.646Z"
+  },
+  {
+    "id": "bf9bbef6-87f4-400f-b331-d89baa051e2e",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:21:16.647Z"
+  },
+  {
+    "id": "127f9fd1-0651-4eb3-9288-0ab309f2807f",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:21:31.545Z"
+  },
+  {
+    "id": "d82ae7fb-471f-4490-8df2-886d6f4d4302",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:21:31.551Z"
+  },
+  {
+    "id": "ce91c525-2409-421b-8704-f54b96b6d304",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:21:31.555Z"
+  },
+  {
+    "id": "7216690e-339f-48dd-8f8a-cabc08f15e73",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:21:31.566Z"
+  },
+  {
+    "id": "369769a1-5598-48fb-88ce-ed90597b384a",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:21:31.568Z"
+  },
+  {
+    "id": "8b7deee3-9f05-4cad-b240-0d32f1dff33d",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:22:02.674Z"
+  },
+  {
+    "id": "676effcb-adec-43b8-b5b2-2730a6c38982",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:22:02.677Z"
+  },
+  {
+    "id": "425ba70d-95f8-4b8d-bc0f-89aac61ae861",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:22:02.680Z"
+  },
+  {
+    "id": "8acd6f42-b412-408e-a971-47d3e6e2864e",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:22:02.693Z"
+  },
+  {
+    "id": "b0a01e6c-5874-4a17-bade-ab29e27d8be7",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:22:02.693Z"
+  },
+  {
+    "id": "97d58c5d-2683-40bc-871a-3acc89021cd2",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:23:48.996Z"
+  },
+  {
+    "id": "9cdaaf63-a6de-4b29-a67d-326eaefa2e78",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:23:48.999Z"
+  },
+  {
+    "id": "86e1df00-5309-4328-87a8-d1209f1ce8a9",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:23:49.002Z"
+  },
+  {
+    "id": "d5cc5c42-8d35-4f0f-b371-7fb7889fef00",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:23:49.012Z"
+  },
+  {
+    "id": "68ef476f-81b5-4e38-8cb2-130e8ce9b7cf",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:23:49.013Z"
+  },
+  {
+    "id": "34b09ab2-73e1-4237-91a6-aa774073a194",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:24:24.490Z"
+  },
+  {
+    "id": "7db1c31c-36a9-447b-a38a-989fbccdd0d9",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:24:24.494Z"
+  },
+  {
+    "id": "02a95bcb-348f-4745-9631-1fd908698ced",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:24:24.496Z"
+  },
+  {
+    "id": "20c894ca-586c-450d-9705-d7fa3a8bb8a9",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:24:24.508Z"
+  },
+  {
+    "id": "63c342c1-3e17-4039-a3cf-3d6733c373aa",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:24:24.509Z"
+  },
+  {
+    "id": "cbd16086-a43f-45a6-9682-a3f30601dc85",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:24:36.800Z"
+  },
+  {
+    "id": "8de2b3df-1e32-4589-bfa4-1d7aa7783f83",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:24:36.802Z"
+  },
+  {
+    "id": "db14c576-724d-468c-928a-97726b88e20f",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:24:36.806Z"
+  },
+  {
+    "id": "c29c2956-dc42-4e10-93a9-b1367d184058",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:24:36.816Z"
+  },
+  {
+    "id": "8445da42-47d8-4d91-815e-710e098c508e",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:24:36.822Z"
+  },
+  {
+    "id": "cfffb9c4-ff11-4f44-8936-e0a99013df10",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:25:04.478Z"
+  },
+  {
+    "id": "536a0a1f-7e08-42b4-b793-6fdae1a7d5d8",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:25:04.480Z"
+  },
+  {
+    "id": "07cf8d3c-0b76-4bca-a451-ebdd50a801e4",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:25:04.482Z"
+  },
+  {
+    "id": "711d4a11-a308-4234-9d41-aaef8d5c035b",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:25:04.487Z"
+  },
+  {
+    "id": "b1d46bfd-12e4-4411-8239-56b53c674251",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:25:04.488Z"
+  },
+  {
+    "id": "57870e5e-f8a9-4d06-a402-053f8b7d83a6",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:25:12.661Z"
+  },
+  {
+    "id": "88b54625-a48c-4279-b813-7948cf55bb0d",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:25:12.664Z"
+  },
+  {
+    "id": "3a2422f0-9ef7-419f-bb4e-a92d7260700f",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:25:12.666Z"
+  },
+  {
+    "id": "b1418633-c5d1-4c4b-86b0-4cafc61cfd19",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:25:12.672Z"
+  },
+  {
+    "id": "faf6d986-b59d-42d2-9043-4862c35c6362",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:25:12.672Z"
+  },
+  {
+    "id": "9011035b-8831-4390-8130-c035d8f9b569",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:26:21.814Z"
+  },
+  {
+    "id": "23911c3c-1cd8-4248-9cb5-4e398e4d1ed1",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:26:21.817Z"
+  },
+  {
+    "id": "7a5a07ab-5ffe-45a7-bcb1-1f464a338be3",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:26:21.819Z"
+  },
+  {
+    "id": "84ab6216-feb2-4fca-b5fb-3af3feeb7b5b",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:26:21.825Z"
+  },
+  {
+    "id": "ae857abe-0602-40de-8c63-4b819b24075b",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-02T18:26:21.826Z"
+  },
+  {
+    "id": "eeb0d5b9-5f6e-4246-925d-7b2d55c756d8",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T08:13:00.766Z"
+  },
+  {
+    "id": "48bae4c3-1703-4ad3-a603-d5a3eef0465d",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T08:13:00.770Z"
+  },
+  {
+    "id": "39839c89-9b34-49a7-84c6-bc2b4d35fa3f",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T08:13:00.773Z"
+  },
+  {
+    "id": "0e6133c2-6a84-4dba-8881-f8d6561eb3ce",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T08:13:00.782Z"
+  },
+  {
+    "id": "30b90e65-af4d-4b83-872d-993024bb0ba4",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T08:13:00.783Z"
+  },
+  {
+    "id": "b4fb26ed-5d6b-4f62-9563-677a1701788b",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T08:23:49.107Z"
+  },
+  {
+    "id": "e296cfd8-ec94-406e-8d8e-55b3c1a9884c",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T08:23:49.111Z"
+  },
+  {
+    "id": "b640854b-00b2-4877-9dca-932c2bf20c5b",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T08:23:49.113Z"
+  },
+  {
+    "id": "f2140aba-3d6c-476f-bb74-9ea21c6cfe2d",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T08:23:49.121Z"
+  },
+  {
+    "id": "dc22b897-7b72-4af7-b719-ee7b7905d516",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T08:23:49.122Z"
+  },
+  {
+    "id": "df91caa5-2473-4df2-bdc1-2955d825326a",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T09:56:03.921Z"
+  },
+  {
+    "id": "1a5e963a-9337-4a2c-80d0-777164ca36df",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T09:56:03.924Z"
+  },
+  {
+    "id": "bfc03cb7-4ccc-473a-9e9a-4720d2aa8eb4",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T09:56:03.927Z"
+  },
+  {
+    "id": "62529be6-3049-4336-90e5-fed180d2836d",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T09:56:03.933Z"
+  },
+  {
+    "id": "26dea1b8-8ae4-47c6-8ebf-fa38c203aeaa",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T09:56:03.934Z"
+  },
+  {
+    "id": "fc1c0522-c8e5-4b76-8205-4f1098a24b52",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T09:57:23.912Z"
+  },
+  {
+    "id": "19d6b3d3-d1e9-44c8-b5d9-8e88aeaee56b",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T09:57:23.915Z"
+  },
+  {
+    "id": "d09fe85e-6872-4aba-be15-186eb7ae860e",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T09:57:23.917Z"
+  },
+  {
+    "id": "55bd2292-7ae5-4acf-a1f5-fdc5c320caae",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T09:57:23.927Z"
+  },
+  {
+    "id": "bc96ab46-45f7-4ba5-a2a2-2a3c4a4ba403",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T09:57:23.928Z"
+  },
+  {
+    "id": "23a69ae3-9c9f-4341-9dbd-52c128122c7e",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:05:27.040Z"
+  },
+  {
+    "id": "10372a9b-dd2a-4494-a2c6-1275aefc8838",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:05:27.045Z"
+  },
+  {
+    "id": "390269b9-95a4-4854-833f-996976a266dc",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:05:27.046Z"
+  },
+  {
+    "id": "ebd2e446-95ea-43f7-917a-5e69fb896d34",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:05:27.054Z"
+  },
+  {
+    "id": "637bb959-7096-4f72-8ea4-9113235863e8",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:05:27.054Z"
+  },
+  {
+    "id": "529f5785-3e5f-4075-ae17-5f1866d06010",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:12:33.295Z"
+  },
+  {
+    "id": "67f7fa53-0d1e-4251-b75d-e3309f820d1d",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:12:33.298Z"
+  },
+  {
+    "id": "80d8113f-3e39-4b01-9059-9660d0248666",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:12:33.302Z"
+  },
+  {
+    "id": "2c395c4c-73be-4735-b6a1-dacab16a7f6b",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:12:33.309Z"
+  },
+  {
+    "id": "96dbaa85-1e65-4442-80a0-3779827ca053",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:12:33.310Z"
+  },
+  {
+    "id": "99d6c6b8-99eb-4820-9834-3589af51776b",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:19:45.875Z"
+  },
+  {
+    "id": "dc6860b5-928f-4f31-9215-18fbe013cbb9",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:19:45.879Z"
+  },
+  {
+    "id": "03b72ceb-7267-43b1-afec-de49b9a1096d",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:19:45.880Z"
+  },
+  {
+    "id": "5ae5425a-ad63-4c44-9cc2-8148602169e9",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:19:45.886Z"
+  },
+  {
+    "id": "ccc68d50-3fea-4963-a908-e599ccdfa1e6",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:19:45.887Z"
+  },
+  {
+    "id": "fd0c00fa-1713-4454-b202-75fd0f807f18",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:25:40.825Z"
+  },
+  {
+    "id": "7aceffe4-add9-4ece-961e-f344a51964fe",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:25:40.830Z"
+  },
+  {
+    "id": "836fcf37-bd71-4efd-8f8e-73a8852a82b0",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:25:40.833Z"
+  },
+  {
+    "id": "c53dca89-8403-4b0d-9307-12ebc998132b",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:25:40.844Z"
+  },
+  {
+    "id": "6633f12e-1082-4d04-beb9-cc99d3a3e7a0",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:25:40.844Z"
+  },
+  {
+    "id": "447327f7-af9b-4832-b711-a671382b3819",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:39:00.757Z"
+  },
+  {
+    "id": "af4781ec-e38c-424e-a279-aefec9212090",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:39:00.762Z"
+  },
+  {
+    "id": "6e82e50d-6db1-47e3-9943-5653e799b385",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:39:00.766Z"
+  },
+  {
+    "id": "7b879b7b-f24c-4fd9-a888-68e7542eec11",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:39:00.775Z"
+  },
+  {
+    "id": "273a1fba-472c-4cc6-8cab-3e3ba2defead",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:39:00.776Z"
+  },
+  {
+    "id": "8484d2b9-2816-4943-8ba6-86f614a46312",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:41:40.163Z"
+  },
+  {
+    "id": "aaa67d61-be89-4e7a-8a27-d7704103d57f",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:41:40.165Z"
+  },
+  {
+    "id": "94dfacff-03bd-4610-bfd6-0b0f64e9eadd",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:41:40.167Z"
+  },
+  {
+    "id": "fba0a1a7-1040-4c14-841b-58ec5812798e",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:41:40.175Z"
+  },
+  {
+    "id": "7ce0e773-b20e-4fef-ac1a-39e9abed9caa",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T10:41:40.176Z"
+  },
+  {
+    "id": "99384cb9-c96b-4f0b-808f-a0f591bb4721",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T11:10:57.945Z"
+  },
+  {
+    "id": "bc9a34da-c6a1-4f40-9326-853933eec877",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T11:10:57.948Z"
+  },
+  {
+    "id": "5187c3f0-78d1-43aa-bfeb-a1e0020512bc",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T11:10:57.950Z"
+  },
+  {
+    "id": "b6331f57-ab1a-403e-96e5-635109e86d64",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T11:10:57.955Z"
+  },
+  {
+    "id": "9cac57d6-a914-4187-bded-f5f87d9c5ef8",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T11:10:57.955Z"
+  },
+  {
+    "id": "af63756c-169c-4682-99a2-dd0ca0725a2f",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T11:22:10.208Z"
+  },
+  {
+    "id": "fe271119-610c-4cff-8373-e9d4e972b524",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T11:22:10.211Z"
+  },
+  {
+    "id": "77c6d126-5488-4ea2-9c73-ae83954111b4",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T11:22:10.216Z"
+  },
+  {
+    "id": "739586f0-f28e-46e2-8aa5-9e5049521467",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T11:22:10.231Z"
+  },
+  {
+    "id": "1e37d64b-7d38-41df-a927-1f1fbfd27007",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T11:22:10.233Z"
+  },
+  {
+    "id": "5332c810-bd0c-489a-be64-cd02fe95811a",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:29:50.579Z"
+  },
+  {
+    "id": "8b860caf-71c1-4fe2-bb85-76f0f970e8a8",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:29:50.583Z"
+  },
+  {
+    "id": "edcadc16-d625-4830-871f-e93ee7f51b8a",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:29:50.586Z"
+  },
+  {
+    "id": "fe13eb50-a14b-4236-bcdd-06dcd0b1bbb3",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:29:50.595Z"
+  },
+  {
+    "id": "eb6fa9b6-3ae6-437d-9186-595afb938fa3",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:29:50.596Z"
+  },
+  {
+    "id": "192ac210-d20b-4475-bdab-66147c2f49be",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:50:06.381Z"
+  },
+  {
+    "id": "1fb1340b-6c31-44c6-b269-e1c18d00d682",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:50:06.383Z"
+  },
+  {
+    "id": "e70d0693-c802-4048-9bf4-ec1b595eee2d",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:50:06.385Z"
+  },
+  {
+    "id": "8bc28b0e-56d1-495f-b49f-dab1cf4fe743",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:50:06.393Z"
+  },
+  {
+    "id": "2a9c0b36-8d56-43e5-ab3b-c2e7125ca014",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:50:06.393Z"
+  },
+  {
+    "id": "9cefa9c5-1092-4038-94ee-1730986dccb4",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA Enterprise AI Cluster revenue accelerated by +999.0% YoY citing REF-NONEXISTENT-999",
+    "refId": "REF-NONEXISTENT-999",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"REF-NONEXISTENT-999\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:53:17.702Z"
+  },
+  {
+    "id": "841a136a-bb27-45ac-9694-a00a333bf7c3",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA consumer hardware ecosystem gross margin expanded citing AAPL-REVENUE-FY2025 belonging to AAPL",
+    "refId": "AAPL-REVENUE-FY2025",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"AAPL-REVENUE-FY2025\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:53:17.706Z"
+  },
+  {
+    "id": "569ca438-917c-4296-9ea7-92be93c8cc0b",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA performance claimed at $0.0B vs actual DB fact of $0.0B",
+    "refId": "CALC-NVDA-capex-to-ocf-FY2026",
+    "result": "fail_mismatch",
+    "detail": "Claimed 0, actual DB value is 0.0185 (diff 0.0185)",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:53:17.716Z"
+  },
+  {
+    "id": "dad753ce-8d26-4372-a06d-7d16d0e87d6b",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA turned profitable despite raw negative trajectory citing CALC-NVDA-capex-to-ocf-FY2026",
+    "refId": "CALC-NVDA-capex-to-ocf-FY2026",
+    "result": "pass",
+    "detail": "Qualitative claim reference verified",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:53:17.717Z"
+  },
+  {
+    "id": "3acb4c96-5215-4147-b51e-eea11f18fdbd",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA Enterprise AI Cluster revenue accelerated by +999.0% YoY citing REF-NONEXISTENT-999",
+    "refId": "REF-NONEXISTENT-999",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"REF-NONEXISTENT-999\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:53:17.720Z"
+  },
+  {
+    "id": "f214d0af-b2bd-40be-8d72-63c6b3fc51cc",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA Enterprise AI Cluster revenue accelerated by +999.0% YoY citing REF-NONEXISTENT-999",
+    "refId": "REF-NONEXISTENT-999",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"REF-NONEXISTENT-999\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:54:51.270Z"
+  },
+  {
+    "id": "466d16d1-c2f1-4f17-a25a-e373b76a73af",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA consumer hardware ecosystem gross margin expanded citing AAPL-REV-FY2025 belonging to AAPL",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:54:51.272Z"
+  },
+  {
+    "id": "cb1782aa-6e8e-4608-bd27-d3d3204b91f3",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA performance claimed at $0.0B vs actual DB fact of $0.0B",
+    "refId": "CALC-NVDA-capex-to-ocf-FY2026",
+    "result": "fail_mismatch",
+    "detail": "Claimed 0, actual DB value is 0.0185 (diff 0.0185)",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:54:51.275Z"
+  },
+  {
+    "id": "e322879c-e9ca-4867-b0b4-429d9022729c",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA reported net income collapsed by -45.0% YoY citing CALC-NVDA-capex-to-ocf-FY2026",
+    "refId": "CALC-NVDA-capex-to-ocf-FY2026",
+    "result": "fail_mismatch",
+    "detail": "Claimed -0.45, actual DB value is 0.0185 (diff 0.4685)",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:54:51.276Z"
+  },
+  {
+    "id": "e4af7f2f-172e-4a2d-bb6e-a4268826417c",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA Enterprise AI Cluster revenue accelerated by +999.0% YoY citing REF-NONEXISTENT-999",
+    "refId": "REF-NONEXISTENT-999",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"REF-NONEXISTENT-999\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:54:51.279Z"
+  },
+  {
+    "id": "1a539542-70b9-4eca-9331-d9aa03c8b8b9",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA Enterprise AI Cluster revenue accelerated by +999.0% YoY citing REF-NONEXISTENT-999",
+    "refId": "REF-NONEXISTENT-999",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"REF-NONEXISTENT-999\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:55:09.515Z"
+  },
+  {
+    "id": "375a2021-32dd-4ca5-9168-46cf6cdcc277",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA consumer hardware ecosystem gross margin expanded citing AAPL-REV-FY2025 belonging to AAPL",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:55:09.520Z"
+  },
+  {
+    "id": "825f2ce8-68a5-4c54-91b9-63df78fdc1a9",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA performance claimed at $0.0B vs actual DB fact of $0.0B",
+    "refId": "CALC-NVDA-capex-to-ocf-FY2026",
+    "result": "fail_mismatch",
+    "detail": "Claimed 0, actual DB value is 0.0185 (diff 0.0185)",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:55:09.523Z"
+  },
+  {
+    "id": "37a23aa7-656f-4d3a-8955-81eb4557bb77",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA reported net income collapsed by -45.0% YoY citing CALC-NVDA-capex-to-ocf-FY2026",
+    "refId": "CALC-NVDA-capex-to-ocf-FY2026",
+    "result": "fail_mismatch",
+    "detail": "Claimed -0.45, actual DB value is 0.0185 (diff 0.4685)",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:55:09.527Z"
+  },
+  {
+    "id": "e282c3f7-2f02-4d3e-be3f-7cbc9895140c",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA Enterprise AI Cluster revenue accelerated by +999.0% YoY citing REF-NONEXISTENT-999",
+    "refId": "REF-NONEXISTENT-999",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"REF-NONEXISTENT-999\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:55:09.533Z"
+  },
+  {
+    "id": "8bc6b2c4-3495-45e5-9302-013e826ebd82",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:55:09.907Z"
+  },
+  {
+    "id": "d0e79656-6682-4600-a4d7-1fb1e5373bcf",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:55:09.910Z"
+  },
+  {
+    "id": "6b200248-70d5-47ee-b21b-6c19976ff9ef",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:55:09.912Z"
+  },
+  {
+    "id": "17270406-37ab-48c7-b2b0-d08b0d770c03",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:55:09.918Z"
+  },
+  {
+    "id": "07ee0822-4e65-4ed1-b13c-78938d01bfce",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T13:55:09.919Z"
+  },
+  {
+    "id": "343eba66-2b3b-4975-9c06-e9afdcf1afc6",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA consumer hardware ecosystem gross margin expanded citing AAPL-REV-FY2025 belonging to AAPL",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T14:03:31.949Z"
+  },
+  {
+    "id": "20eb6e74-783b-4507-ab57-3325248e323c",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA consumer hardware ecosystem gross margin expanded citing AAPL-REV-FY2025 belonging to AAPL",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T14:08:01.312Z"
+  },
+  {
+    "id": "d47df946-b4a2-4559-bd94-d8fed07b6df7",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA reported net income collapsed by -45.0% YoY citing CALC-NVDA-capex-to-ocf-FY2026",
+    "refId": "CALC-NVDA-capex-to-ocf-FY2026",
+    "result": "fail_mismatch",
+    "detail": "Claimed -0.45, actual DB value is 0.0185 (diff 0.4685)",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T17:53:38.632Z"
+  },
+  {
+    "id": "d5c33cd2-4fed-40c8-9e87-ec5bea0a2e45",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA Enterprise AI Cluster revenue accelerated by +999.0% YoY citing REF-NONEXISTENT-999",
+    "refId": "REF-NONEXISTENT-999",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"REF-NONEXISTENT-999\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T17:57:03.263Z"
+  },
+  {
+    "id": "8649f84e-0d4a-45b1-add6-aded0fb0c592",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA consumer hardware ecosystem gross margin expanded citing AAPL-REV-FY2025 belonging to AAPL",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T17:57:03.267Z"
+  },
+  {
+    "id": "09de92c0-3131-48eb-b81d-4c66036749ec",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA performance claimed at $0.0B vs actual DB fact of $0.0B",
+    "refId": "CALC-NVDA-capex-to-ocf-FY2026",
+    "result": "fail_mismatch",
+    "detail": "Claimed 0, actual DB value is 0.0185 (diff 0.0185)",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T17:57:03.272Z"
+  },
+  {
+    "id": "9d85c578-d547-4f31-88b0-257e020c4e96",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA reported net income collapsed by -45.0% YoY citing CALC-NVDA-capex-to-ocf-FY2026",
+    "refId": "CALC-NVDA-capex-to-ocf-FY2026",
+    "result": "fail_mismatch",
+    "detail": "Claimed -0.45, actual DB value is 0.0185 (diff 0.4685)",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T17:57:03.275Z"
+  },
+  {
+    "id": "83271e23-5afa-49dd-9897-2b2f0a4cce27",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA Enterprise AI Cluster revenue accelerated by +999.0% YoY citing REF-NONEXISTENT-999",
+    "refId": "REF-NONEXISTENT-999",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"REF-NONEXISTENT-999\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T17:57:03.281Z"
+  },
+  {
+    "id": "844b83ec-5291-4770-87e3-6ef4a9c8610e",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T17:57:03.702Z"
+  },
+  {
+    "id": "54939cd1-6d15-446e-bfe0-78e17ea034a3",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T17:57:03.705Z"
+  },
+  {
+    "id": "e864db61-5d86-41be-b27b-8e96de8cbbba",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T17:57:03.707Z"
+  },
+  {
+    "id": "a777782c-7535-45ef-9c3f-3a5d17fcd38b",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T17:57:03.713Z"
+  },
+  {
+    "id": "6bbde7c5-ee6c-446f-b085-bd6f555b4089",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-03T17:57:03.714Z"
+  },
+  {
+    "id": "1c8ce81f-f794-45a8-ae3c-68cc91db58d5",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA Enterprise AI Cluster revenue accelerated by +999.0% YoY citing REF-NONEXISTENT-999",
+    "refId": "REF-NONEXISTENT-999",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"REF-NONEXISTENT-999\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:28:44.789Z"
+  },
+  {
+    "id": "6015b093-a2ed-4cbc-a6c7-52cfb2eb5f22",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA consumer hardware ecosystem gross margin expanded citing AAPL-REV-FY2025 belonging to AAPL",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:28:44.793Z"
+  },
+  {
+    "id": "05e98754-6be5-432b-94d2-4d6e0244fff1",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA performance claimed at $0.0B vs actual DB fact of $0.0B",
+    "refId": "CALC-NVDA-capex-to-ocf-FY2026",
+    "result": "fail_mismatch",
+    "detail": "Claimed 0, actual DB value is 0.0185 (diff 0.0185)",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:28:44.798Z"
+  },
+  {
+    "id": "b8baa588-9283-4955-9c67-cd4196097eaa",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA reported net income collapsed by -45.0% YoY citing CALC-NVDA-capex-to-ocf-FY2026",
+    "refId": "CALC-NVDA-capex-to-ocf-FY2026",
+    "result": "fail_mismatch",
+    "detail": "Claimed -0.45, actual DB value is 0.0185 (diff 0.4685)",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:28:44.803Z"
+  },
+  {
+    "id": "df730577-3039-4684-8dfa-86c9d8dac443",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA Enterprise AI Cluster revenue accelerated by +999.0% YoY citing REF-NONEXISTENT-999",
+    "refId": "REF-NONEXISTENT-999",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"REF-NONEXISTENT-999\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:28:44.810Z"
+  },
+  {
+    "id": "5c5a978b-d236-404e-be1a-208301bbed62",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:28:45.195Z"
+  },
+  {
+    "id": "85b05c03-f87f-475e-941a-df6ea6503859",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:28:45.197Z"
+  },
+  {
+    "id": "33e2cabd-333e-4048-8718-fb66f6b1a744",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:28:45.200Z"
+  },
+  {
+    "id": "0fd1bb8d-ffd8-4ff3-8795-048e5f71844a",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:28:45.207Z"
+  },
+  {
+    "id": "5f655ae3-382e-45b0-b056-58d5fa78741d",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:28:45.207Z"
+  },
+  {
+    "id": "3e290b37-9f1a-4b06-9e1b-471b51ffde80",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA Enterprise AI Cluster revenue accelerated by +999.0% YoY citing REF-NONEXISTENT-999",
+    "refId": "REF-NONEXISTENT-999",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"REF-NONEXISTENT-999\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:51:12.055Z"
+  },
+  {
+    "id": "019f18b5-8f47-457a-88f8-bda316dc5dce",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA consumer hardware ecosystem gross margin expanded citing AAPL-REV-FY2025 belonging to AAPL",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:51:12.060Z"
+  },
+  {
+    "id": "cbd04cba-9e0b-4193-96a0-fbd2ced034e5",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA performance claimed at $0.0B vs actual DB fact of $0.0B",
+    "refId": "CALC-NVDA-capex-to-ocf-FY2026",
+    "result": "fail_mismatch",
+    "detail": "Claimed 0, actual DB value is 0.0185 (diff 0.0185)",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:51:12.064Z"
+  },
+  {
+    "id": "801c7cf5-d881-4ff8-ba8b-66d7a7558592",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA reported net income collapsed by -45.0% YoY citing CALC-NVDA-capex-to-ocf-FY2026",
+    "refId": "CALC-NVDA-capex-to-ocf-FY2026",
+    "result": "fail_mismatch",
+    "detail": "Claimed -0.45, actual DB value is 0.0185 (diff 0.4685)",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:51:12.070Z"
+  },
+  {
+    "id": "49bbc12a-1054-4e1b-aaa0-ddd0ae6ba101",
+    "companyTicker": "NVDA",
+    "claimText": "NVDA Enterprise AI Cluster revenue accelerated by +999.0% YoY citing REF-NONEXISTENT-999",
+    "refId": "REF-NONEXISTENT-999",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"REF-NONEXISTENT-999\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:51:12.076Z"
+  },
+  {
+    "id": "add77fe6-7605-437f-bd7c-bb5ab75421f0",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA achieved unprecedented 999% revenue growth. (Revenue growth: 999%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:51:12.478Z"
+  },
+  {
+    "id": "5d67a0cd-272f-4615-9792-f15b11a701c9",
+    "companyTicker": "NVDA",
+    "claimText": "Working capital friction observed. (Receivables growth: 150.0%)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:51:12.480Z"
+  },
+  {
+    "id": "44fa42dd-590d-4689-b759-7de1b59bb210",
+    "companyTicker": "NVDA",
+    "claimText": "Judge Unresolved Question Ref (CALC-REV-GROWTH-NVDA-2024)",
+    "refId": "CALC-REV-GROWTH-NVDA-2024",
+    "result": "fail_missing_ref",
+    "detail": "ref_id \"CALC-REV-GROWTH-NVDA-2024\" does not exist in DB",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:51:12.482Z"
+  },
+  {
+    "id": "338c3600-af7c-4c06-9045-4c1113a5aeb5",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA claims Apple revenue fact",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:51:12.487Z"
+  },
+  {
+    "id": "5f13d7d1-c73f-45e4-aea5-0d1f5ac50004",
+    "companyTicker": "NVDA",
+    "claimText": "NVIDIA revenue expanded based on Apple disclosure. (Revenue: $416.2B)",
+    "refId": "AAPL-REV-FY2025",
+    "result": "fail_cross_company",
+    "detail": "ref_id \"AAPL-REV-FY2025\" belongs to company \"AAPL\", expected \"NVDA\"",
+    "sourceType": "production",
+    "createdAt": "2026-09-04T07:51:12.488Z"
+  }
+]

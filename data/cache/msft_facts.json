@@ -1,0 +1,261 @@
+{
+  "timestamp": 1788352650551,
+  "facts": [
+    {
+      "factId": "MSFT-NETINCOME-FY2023",
+      "company": "MSFT",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-06-30",
+        "kind": "annual"
+      },
+      "value": 72361000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-NETINCOME-FY2024",
+      "company": "MSFT",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-06-30",
+        "kind": "annual"
+      },
+      "value": 88136000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-NETINCOME-FY2025",
+      "company": "MSFT",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-06-30",
+        "kind": "annual"
+      },
+      "value": 101832000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-NETINCOME-FY2026",
+      "company": "MSFT",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2026",
+        "endDate": "2026-06-30",
+        "kind": "annual"
+      },
+      "value": 133749000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2026 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-OPERATINGCASHFLOW-FY2023",
+      "company": "MSFT",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-06-30",
+        "kind": "annual"
+      },
+      "value": 87582000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-OPERATINGCASHFLOW-FY2024",
+      "company": "MSFT",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-06-30",
+        "kind": "annual"
+      },
+      "value": 118548000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-OPERATINGCASHFLOW-FY2025",
+      "company": "MSFT",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-06-30",
+        "kind": "annual"
+      },
+      "value": 136162000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-OPERATINGCASHFLOW-FY2026",
+      "company": "MSFT",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2026",
+        "endDate": "2026-06-30",
+        "kind": "annual"
+      },
+      "value": 182935000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2026 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-RECEIVABLES-FY2023",
+      "company": "MSFT",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-06-30",
+        "kind": "annual"
+      },
+      "value": 48688000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-RECEIVABLES-FY2024",
+      "company": "MSFT",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-06-30",
+        "kind": "annual"
+      },
+      "value": 56924000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-RECEIVABLES-FY2025",
+      "company": "MSFT",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-06-30",
+        "kind": "annual"
+      },
+      "value": 69905000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-RECEIVABLES-FY2026",
+      "company": "MSFT",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2026",
+        "endDate": "2026-06-30",
+        "kind": "annual"
+      },
+      "value": 80876000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2026 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-CAPEX-FY2023",
+      "company": "MSFT",
+      "metric": "capex",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-06-30",
+        "kind": "annual"
+      },
+      "value": 28107000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-CAPEX-FY2024",
+      "company": "MSFT",
+      "metric": "capex",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-06-30",
+        "kind": "annual"
+      },
+      "value": 44477000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-CAPEX-FY2025",
+      "company": "MSFT",
+      "metric": "capex",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-06-30",
+        "kind": "annual"
+      },
+      "value": 64551000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "MSFT-CAPEX-FY2026",
+      "company": "MSFT",
+      "metric": "capex",
+      "period": {
+        "label": "FY2026",
+        "endDate": "2026-06-30",
+        "kind": "annual"
+      },
+      "value": 115948000000,
+      "unit": "USD",
+      "source": "MICROSOFT CORP FY2026 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000789019",
+      "type": "FACT",
+      "availability": "reported"
+    }
+  ]
+}

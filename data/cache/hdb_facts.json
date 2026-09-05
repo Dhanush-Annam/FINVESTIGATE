@@ -1,0 +1,197 @@
+{
+  "timestamp": 1788429155125,
+  "facts": [
+    {
+      "factId": "HDB-REVENUE-FY2023",
+      "company": "HDB",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-03-31",
+        "kind": "annual"
+      },
+      "value": 13762600000,
+      "unit": "USD",
+      "source": "HDFC BANK LTD FY2023 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001144967",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "HDB-REVENUE-FY2024",
+      "company": "HDB",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-03-31",
+        "kind": "annual"
+      },
+      "value": 22244800000,
+      "unit": "USD",
+      "source": "HDFC BANK LTD FY2024 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001144967",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "HDB-REVENUE-FY2025",
+      "company": "HDB",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-03-31",
+        "kind": "annual"
+      },
+      "value": 25636300000,
+      "unit": "USD",
+      "source": "HDFC BANK LTD FY2025 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001144967",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "HDB-NETINCOME-FY2023",
+      "company": "HDB",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-03-31",
+        "kind": "annual"
+      },
+      "value": 6037800000,
+      "unit": "USD",
+      "source": "HDFC BANK LTD FY2023 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001144967",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "HDB-NETINCOME-FY2024",
+      "company": "HDB",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-03-31",
+        "kind": "annual"
+      },
+      "value": 7531100000,
+      "unit": "USD",
+      "source": "HDFC BANK LTD FY2024 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001144967",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "HDB-NETINCOME-FY2025",
+      "company": "HDB",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-03-31",
+        "kind": "annual"
+      },
+      "value": 8035900000,
+      "unit": "USD",
+      "source": "HDFC BANK LTD FY2025 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001144967",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "HDB-OPERATINGCASHFLOW-FY2023",
+      "company": "HDB",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-03-31",
+        "kind": "annual"
+      },
+      "value": 5806000000,
+      "unit": "USD",
+      "source": "HDFC BANK LTD FY2023 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001144967",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "HDB-OPERATINGCASHFLOW-FY2024",
+      "company": "HDB",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-03-31",
+        "kind": "annual"
+      },
+      "value": 12266900000,
+      "unit": "USD",
+      "source": "HDFC BANK LTD FY2024 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001144967",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "HDB-OPERATINGCASHFLOW-FY2025",
+      "company": "HDB",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-03-31",
+        "kind": "annual"
+      },
+      "value": 13995200000,
+      "unit": "USD",
+      "source": "HDFC BANK LTD FY2025 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001144967",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "HDB-CAPEX-FY2023",
+      "company": "HDB",
+      "metric": "capex",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-03-31",
+        "kind": "annual"
+      },
+      "value": 530700000,
+      "unit": "USD",
+      "source": "HDFC BANK LTD FY2023 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001144967",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "HDB-CAPEX-FY2024",
+      "company": "HDB",
+      "metric": "capex",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-03-31",
+        "kind": "annual"
+      },
+      "value": 646000000,
+      "unit": "USD",
+      "source": "HDFC BANK LTD FY2024 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001144967",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "HDB-CAPEX-FY2025",
+      "company": "HDB",
+      "metric": "capex",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-03-31",
+        "kind": "annual"
+      },
+      "value": 777200000,
+      "unit": "USD",
+      "source": "HDFC BANK LTD FY2025 Form 20-F, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001144967",
+      "type": "FACT",
+      "availability": "reported"
+    }
+  ]
+}

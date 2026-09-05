@@ -1,0 +1,275 @@
+{
+  "timestamp": 1788611088957,
+  "facts": [
+    {
+      "factId": "AMD-REVENUE-FY2023",
+      "company": "AMD",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-30",
+        "kind": "annual"
+      },
+      "value": 22680000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2023 Form 10-K (Revenue from Contract with Customer, Excluding Assessed Tax), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Revenue from Contract with Customer, Excluding Assessed Tax",
+      "accountingDefinition": "RevenueFromContractWithCustomerExcludingAssessedTax (US-GAAP)"
+    },
+    {
+      "factId": "AMD-REVENUE-FY2024",
+      "company": "AMD",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-28",
+        "kind": "annual"
+      },
+      "value": 25785000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2024 Form 10-K (Revenue from Contract with Customer, Excluding Assessed Tax), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Revenue from Contract with Customer, Excluding Assessed Tax",
+      "accountingDefinition": "RevenueFromContractWithCustomerExcludingAssessedTax (US-GAAP)"
+    },
+    {
+      "factId": "AMD-REVENUE-FY2025",
+      "company": "AMD",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-27",
+        "kind": "annual"
+      },
+      "value": 34639000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2025 Form 10-K (Revenue from Contract with Customer, Excluding Assessed Tax), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Revenue from Contract with Customer, Excluding Assessed Tax",
+      "accountingDefinition": "RevenueFromContractWithCustomerExcludingAssessedTax (US-GAAP)"
+    },
+    {
+      "factId": "AMD-NETINCOME-FY2023",
+      "company": "AMD",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-30",
+        "kind": "annual"
+      },
+      "value": 854000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2023 Form 10-K (Net Income (Loss) Attributable to Parent), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Net Income (Loss) Attributable to Parent",
+      "accountingDefinition": "NetIncomeLoss (US-GAAP)"
+    },
+    {
+      "factId": "AMD-NETINCOME-FY2024",
+      "company": "AMD",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-28",
+        "kind": "annual"
+      },
+      "value": 1641000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2024 Form 10-K (Net Income (Loss) Attributable to Parent), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Net Income (Loss) Attributable to Parent",
+      "accountingDefinition": "NetIncomeLoss (US-GAAP)"
+    },
+    {
+      "factId": "AMD-NETINCOME-FY2025",
+      "company": "AMD",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-27",
+        "kind": "annual"
+      },
+      "value": 4335000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2025 Form 10-K (Net Income (Loss) Attributable to Parent), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Net Income (Loss) Attributable to Parent",
+      "accountingDefinition": "NetIncomeLoss (US-GAAP)"
+    },
+    {
+      "factId": "AMD-OPERATINGCASHFLOW-FY2023",
+      "company": "AMD",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-30",
+        "kind": "annual"
+      },
+      "value": 1667000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2023 Form 10-K (Net Cash Provided by (Used in) Operating Activities), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Net Cash Provided by (Used in) Operating Activities",
+      "accountingDefinition": "NetCashProvidedByUsedInOperatingActivities (US-GAAP)"
+    },
+    {
+      "factId": "AMD-OPERATINGCASHFLOW-FY2024",
+      "company": "AMD",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-28",
+        "kind": "annual"
+      },
+      "value": 3041000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2024 Form 10-K (Net Cash Provided by (Used in) Operating Activities), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Net Cash Provided by (Used in) Operating Activities",
+      "accountingDefinition": "NetCashProvidedByUsedInOperatingActivities (US-GAAP)"
+    },
+    {
+      "factId": "AMD-OPERATINGCASHFLOW-FY2025",
+      "company": "AMD",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-27",
+        "kind": "annual"
+      },
+      "value": 7709000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2025 Form 10-K (Net Cash Provided by (Used in) Operating Activities), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Net Cash Provided by (Used in) Operating Activities",
+      "accountingDefinition": "NetCashProvidedByUsedInOperatingActivities (US-GAAP)"
+    },
+    {
+      "factId": "AMD-RECEIVABLES-FY2023",
+      "company": "AMD",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-30",
+        "kind": "annual"
+      },
+      "value": 4323000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2023 Form 10-K (Accounts Receivable, after Allowance for Credit Loss, Current), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "accountingDefinition": "AccountsReceivableNetCurrent (US-GAAP)"
+    },
+    {
+      "factId": "AMD-RECEIVABLES-FY2024",
+      "company": "AMD",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-28",
+        "kind": "annual"
+      },
+      "value": 6192000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2024 Form 10-K (Accounts Receivable, after Allowance for Credit Loss, Current), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "accountingDefinition": "AccountsReceivableNetCurrent (US-GAAP)"
+    },
+    {
+      "factId": "AMD-RECEIVABLES-FY2025",
+      "company": "AMD",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-27",
+        "kind": "annual"
+      },
+      "value": 6315000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2025 Form 10-K (Accounts Receivable, after Allowance for Credit Loss, Current), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Accounts Receivable, after Allowance for Credit Loss, Current",
+      "accountingDefinition": "AccountsReceivableNetCurrent (US-GAAP)"
+    },
+    {
+      "factId": "AMD-CAPEX-FY2023",
+      "company": "AMD",
+      "metric": "capex",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-30",
+        "kind": "annual"
+      },
+      "value": 546000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2023 Form 10-K (Payments to Acquire Property, Plant, and Equipment), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Payments to Acquire Property, Plant, and Equipment",
+      "accountingDefinition": "PaymentsToAcquirePropertyPlantAndEquipment (US-GAAP)"
+    },
+    {
+      "factId": "AMD-CAPEX-FY2024",
+      "company": "AMD",
+      "metric": "capex",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-28",
+        "kind": "annual"
+      },
+      "value": 636000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2024 Form 10-K (Payments to Acquire Property, Plant, and Equipment), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Payments to Acquire Property, Plant, and Equipment",
+      "accountingDefinition": "PaymentsToAcquirePropertyPlantAndEquipment (US-GAAP)"
+    },
+    {
+      "factId": "AMD-CAPEX-FY2025",
+      "company": "AMD",
+      "metric": "capex",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-27",
+        "kind": "annual"
+      },
+      "value": 974000000,
+      "unit": "USD",
+      "source": "ADVANCED MICRO DEVICES INC FY2025 Form 10-K (Payments to Acquire Property, Plant, and Equipment), EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000002488",
+      "type": "FACT",
+      "availability": "reported",
+      "lineItem": "Payments to Acquire Property, Plant, and Equipment",
+      "accountingDefinition": "PaymentsToAcquirePropertyPlantAndEquipment (US-GAAP)"
+    }
+  ]
+}

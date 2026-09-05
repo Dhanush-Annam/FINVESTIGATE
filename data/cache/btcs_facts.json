@@ -1,0 +1,197 @@
+{
+  "timestamp": 1788366466584,
+  "facts": [
+    {
+      "factId": "BTCS-REVENUE-FY2023",
+      "company": "BTCS",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 1339628,
+      "unit": "USD",
+      "source": "BTCS Inc. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001436229",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "BTCS-REVENUE-FY2024",
+      "company": "BTCS",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 4073518,
+      "unit": "USD",
+      "source": "BTCS Inc. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001436229",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "BTCS-REVENUE-FY2025",
+      "company": "BTCS",
+      "metric": "revenue",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 16491584,
+      "unit": "USD",
+      "source": "BTCS Inc. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001436229",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "BTCS-NETINCOME-FY2023",
+      "company": "BTCS",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 7818728,
+      "unit": "USD",
+      "source": "BTCS Inc. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001436229",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "BTCS-NETINCOME-FY2024",
+      "company": "BTCS",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": -1271174,
+      "unit": "USD",
+      "source": "BTCS Inc. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001436229",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "BTCS-NETINCOME-FY2025",
+      "company": "BTCS",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": -33353433,
+      "unit": "USD",
+      "source": "BTCS Inc. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001436229",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "BTCS-OPERATINGCASHFLOW-FY2023",
+      "company": "BTCS",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": -3562247,
+      "unit": "USD",
+      "source": "BTCS Inc. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001436229",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "BTCS-OPERATINGCASHFLOW-FY2024",
+      "company": "BTCS",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": -3530108,
+      "unit": "USD",
+      "source": "BTCS Inc. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001436229",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "BTCS-OPERATINGCASHFLOW-FY2025",
+      "company": "BTCS",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": -9783943,
+      "unit": "USD",
+      "source": "BTCS Inc. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001436229",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "BTCS-CAPEX-FY2023",
+      "company": "BTCS",
+      "metric": "capex",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-31",
+        "kind": "annual"
+      },
+      "value": 5276,
+      "unit": "USD",
+      "source": "BTCS Inc. FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001436229",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "BTCS-CAPEX-FY2024",
+      "company": "BTCS",
+      "metric": "capex",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-31",
+        "kind": "annual"
+      },
+      "value": 2648,
+      "unit": "USD",
+      "source": "BTCS Inc. FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001436229",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "BTCS-CAPEX-FY2025",
+      "company": "BTCS",
+      "metric": "capex",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-31",
+        "kind": "annual"
+      },
+      "value": 12759,
+      "unit": "USD",
+      "source": "BTCS Inc. FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0001436229",
+      "type": "FACT",
+      "availability": "reported"
+    }
+  ]
+}

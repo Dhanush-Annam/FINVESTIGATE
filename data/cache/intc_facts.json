@@ -1,0 +1,197 @@
+{
+  "timestamp": 1788355670747,
+  "facts": [
+    {
+      "factId": "INTC-NETINCOME-FY2023",
+      "company": "INTC",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-30",
+        "kind": "annual"
+      },
+      "value": 1689000000,
+      "unit": "USD",
+      "source": "INTEL CORP FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000050863",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INTC-NETINCOME-FY2024",
+      "company": "INTC",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-28",
+        "kind": "annual"
+      },
+      "value": -18756000000,
+      "unit": "USD",
+      "source": "INTEL CORP FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000050863",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INTC-NETINCOME-FY2025",
+      "company": "INTC",
+      "metric": "netIncome",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-27",
+        "kind": "annual"
+      },
+      "value": -267000000,
+      "unit": "USD",
+      "source": "INTEL CORP FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000050863",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INTC-OPERATINGCASHFLOW-FY2023",
+      "company": "INTC",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-30",
+        "kind": "annual"
+      },
+      "value": 11471000000,
+      "unit": "USD",
+      "source": "INTEL CORP FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000050863",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INTC-OPERATINGCASHFLOW-FY2024",
+      "company": "INTC",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-28",
+        "kind": "annual"
+      },
+      "value": 8288000000,
+      "unit": "USD",
+      "source": "INTEL CORP FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000050863",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INTC-OPERATINGCASHFLOW-FY2025",
+      "company": "INTC",
+      "metric": "operatingCashFlow",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-27",
+        "kind": "annual"
+      },
+      "value": 9697000000,
+      "unit": "USD",
+      "source": "INTEL CORP FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000050863",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INTC-RECEIVABLES-FY2023",
+      "company": "INTC",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-30",
+        "kind": "annual"
+      },
+      "value": 3402000000,
+      "unit": "USD",
+      "source": "INTEL CORP FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000050863",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INTC-RECEIVABLES-FY2024",
+      "company": "INTC",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-28",
+        "kind": "annual"
+      },
+      "value": 3478000000,
+      "unit": "USD",
+      "source": "INTEL CORP FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000050863",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INTC-RECEIVABLES-FY2025",
+      "company": "INTC",
+      "metric": "receivables",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-27",
+        "kind": "annual"
+      },
+      "value": 3839000000,
+      "unit": "USD",
+      "source": "INTEL CORP FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000050863",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INTC-CAPEX-FY2023",
+      "company": "INTC",
+      "metric": "capex",
+      "period": {
+        "label": "FY2023",
+        "endDate": "2023-12-30",
+        "kind": "annual"
+      },
+      "value": 25750000000,
+      "unit": "USD",
+      "source": "INTEL CORP FY2023 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000050863",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INTC-CAPEX-FY2024",
+      "company": "INTC",
+      "metric": "capex",
+      "period": {
+        "label": "FY2024",
+        "endDate": "2024-12-28",
+        "kind": "annual"
+      },
+      "value": 23944000000,
+      "unit": "USD",
+      "source": "INTEL CORP FY2024 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000050863",
+      "type": "FACT",
+      "availability": "reported"
+    },
+    {
+      "factId": "INTC-CAPEX-FY2025",
+      "company": "INTC",
+      "metric": "capex",
+      "period": {
+        "label": "FY2025",
+        "endDate": "2025-12-27",
+        "kind": "annual"
+      },
+      "value": 14646000000,
+      "unit": "USD",
+      "source": "INTEL CORP FY2025 Form 10-K, EDGAR",
+      "sourceUrl": "https://www.sec.gov/edgar/browse/?CIK=0000050863",
+      "type": "FACT",
+      "availability": "reported"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+# Dependencies
+
+node_modules/
+
+# Production builds & generated output
+
+dist/
+server-dist/
+build/
+out/
+
+# Test & coverage
+
+coverage/
+.nyc_output/
+*.lcov
+
+# Environment variables & secrets
+
+.env
+.env.local
+.env.*
+!.env.example
+
+# Local SQLite databases & runtime files
+
+data/finvestigate.db
+data/finvestigate.db-journal
+data/finvestigate.db-wal
+data/finvestigate.db-shm
+data/*.sqlite
+data/*.sqlite3
+
+# Test databases
+data/test_*.db
+data/test_*.db-*
+
+# Backup, archive & submission files
+
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Temporary, scratch & debug files
+
+scratch/
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+*.log
+
+# TypeScript & tooling caches
+
+*.tsbuildinfo
+.eslintcache
+.vite/
+.turbo/
+
+# Package manager caches
+
+.npm/
+.yarn/
+.pnpm-store/
+
+# IDE & editor files
+
+.vscode/
+.idea/
+*.code-workspace
+
+# AI / local tooling
+
+.gemini/
+.cursor/
+.claude/
+.kiro/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+Desktop.ini

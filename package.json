@@ -1,0 +1,41 @@
+{
+  "name": "finvestigate",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev:api": "tsx watch src/server/api/server.ts",
+    "dev:web": "vite",
+    "build": "tsc --noEmit && vite build",
+    "clean:api": "node -e \"fs.rmSync('server-dist', { recursive: true, force: true })\"",
+    "prebuild:api": "npm run clean:api",
+    "build:api": "tsc --project tsconfig.server.json",
+    "typecheck": "tsc --noEmit",
+    "start": "npm run build:api && node server-dist/server/api/server.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "benchmark:llm": "tsx scripts/benchmark.ts"
+  },
+  "dependencies": {
+    "@google/genai": "^2.20.0",
+    "@libsql/client": "^0.18.0",
+    "@types/better-sqlite3": "^9.6.0",
+    "better-sqlite3": "^13.0.3",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.13.10",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.5",
+    "@vitejs/plugin-react": "^5.1.1",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2",
+    "vitest": "^3.0.8"
+  }
+}
